@@ -14,6 +14,11 @@
       "text": "News",
       "url": "/archive",
       "external": false
+    },
+    {
+      "text": "Join!",
+      "url": "https://app.clubbase.io/signup/3d1a610d-17bc-40e7-acc5-2c0c5d715e17?locale=en",
+      "external": true
     }
   ]
 }
