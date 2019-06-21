@@ -146,13 +146,13 @@ collections:
                   label: 'Is url to external site?',
                   name: 'external',
                   widget: 'boolean',
-                  default: 'false',
+                  default: false,
                 }
               - {
                   label: 'Look like a Button?',
                   name: 'button',
                   widget: 'boolean',
-                  default: 'false',
+                  default: false,
                 }
       - label: 'Theme Settings'
         name: 'theme'
@@ -216,7 +216,7 @@ collections:
                   label: 'Intro Light?',
                   name: 'introLight',
                   widget: 'boolean',
-                  default: 'false',
+                  default: false,
                 }
           - label: 'Fonts'
             name: 'fonts'
