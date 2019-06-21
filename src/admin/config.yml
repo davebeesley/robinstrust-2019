@@ -148,6 +148,12 @@ collections:
                   widget: 'boolean',
                   default: 'false',
                 }
+              - {
+                  label: 'Look like a Button?',
+                  name: 'button',
+                  widget: 'boolean',
+                  default: 'false',
+                }
       - label: 'Theme Settings'
         name: 'theme'
         delete: false
