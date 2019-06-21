@@ -9,6 +9,11 @@
       "text": "About",
       "url": "/about",
       "external": false
+    },
+    {
+      "text": "News",
+      "url": "/posts",
+      "external": false
     }
   ]
 }
