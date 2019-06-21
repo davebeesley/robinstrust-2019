@@ -15,6 +15,10 @@
         text-decoration: none;
       }
     }
+
+    &--light {
+      color: var(--color-text--light);
+    }
   }
 
   &__heading {
