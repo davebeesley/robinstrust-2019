@@ -60,6 +60,7 @@ collections:
         fields:
           - {label: "Site Name", name: "name", widget: "string"}
           - {label: "Site Url", name: "url", widget: "string"}
+          - {label: "Site Logo", name: "siteLogo", widget: "image", required: false}
           - {label: "Author Name", name: "authorName", widget: "string"}
           - {label: "Author Email Address", name: "authorEmail", widget: "string"}
           - {label: "Author Twitter Handle", name: "authorHandle", widget: "string", required: false}
