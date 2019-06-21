@@ -1,10 +1,12 @@
 ---
 layout: home
-title: A simple starter kit for Eleventy
+title: Robins Trust
+metaTitle: Homepage | Robins Trust
+metaDesc: >-
+  The Robins Trust is the Supporters Society representing the Fanbase of
+  Cheltenham Town FC
 postsHeading: Latest posts
 archiveButtonText: See all posts
-socialImage: ''
+socialImage: /images/demo-image-2.jpg
 ---
-Hylia is a lightweight [Eleventy](https://11ty.io) starter kit with [Netlify CMS](https://www.netlifycms.org/) pre-configured, so that you can one-click install a progressive, accessible blog in minutes. It also gives you a well organised starting point to extend yourself.
-
-Get started now by [deploying Hylia to Netlify.](https://app.netlify.com/start/deploy?repository=https://github.com/andybelldesign/hylia)
+Need to write some inspiring copy for here. About 20 words/2 paras
