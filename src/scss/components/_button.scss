@@ -1,0 +1,13 @@
+.button {
+  background-color: var(--color-theme-primary);
+  border-radius: 3px;
+  color: var(--color-text--light);
+  padding: get-size(300);
+  transition: background-color 0.15s ease-out;
+
+  &:hover {
+    background-color: var(--color-theme-primary-glare);
+    text-decoration: none;
+    transition: background-color 0.15s ease-in;
+  }
+}

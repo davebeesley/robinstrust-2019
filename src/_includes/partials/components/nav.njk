@@ -4,9 +4,14 @@
       {% for item in navigation.items %}
         {% set externalAttribute = '' %}
         {% set currentAttribute = '' %}
+        {% set classes = '' %}
 
         {% if item.external %}
           {% set externalAttribute = ' rel="external"' %}
+        {% endif %}
+
+        {% if item.button %}
+          {% set classes = ' class="button"' %}
         {% endif %}
 
         {% if page.url == item.url %}
@@ -14,7 +19,7 @@
         {% endif %}
 
         <li class="nav__item">
-          <a href="{{ item.url }}"{{ externalAttribute | safe }}{{ currentAttribute | safe }}>{{ item.text }}</a>
+          <a href="{{ item.url }}"{{ externalAttribute | safe }}{{ currentAttribute | safe }}{{ classes | safe }}>{{ item.text }}</a>
         </li>
       {% endfor %}
     </ul>

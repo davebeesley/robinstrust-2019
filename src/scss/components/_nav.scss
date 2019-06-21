@@ -25,6 +25,10 @@
       &:not(:hover) {
         text-decoration: none;
       }
+
+      &.button {
+        color: var(--color-text--light);
+      }
     }
   }
 }
