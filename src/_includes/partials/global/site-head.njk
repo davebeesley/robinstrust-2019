@@ -7,7 +7,7 @@
         <span class="visually-hidden">{{ 'Back to homepage' if page.url != '/' else 'Homepage' }}</span>
         <span class="[ site-head__site-name ] [ text-600 ]{% if site.siteLogo %} visually-hidden{% endif %}" aria-hidden="true">{{ site.name }}</span>
         {% if site.siteLogo %}
-          <img src="{{ site.url }}{{ site.name }}" alt="{{ site.name }}">
+          <img src="{{ site.url }}{{ site.siteLogo }}" alt="{{ site.name }}">
         {% endif %}
       </a>
       {% include "partials/components/nav.njk" %}
