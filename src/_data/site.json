@@ -1,4 +1,5 @@
 {
+  "affiliateUrl": "https://supporters-direct.org/",
   "showThemeCredit": false,
   "name": "Robins Trust",
   "shortDesc": "Cheltenham Town Supporters Society Ltd",
@@ -8,5 +9,7 @@
   "authorHandle": "@davebeesley",
   "authorName": "David Beesley",
   "enableThirdPartyComments": false,
+  "affiliateLogo": "/images/sd-membership-logo-18.19-708x1024.jpg",
+  "affiliateName": "Supporters Direct",
   "maxPostsPerPage": 5
 }
