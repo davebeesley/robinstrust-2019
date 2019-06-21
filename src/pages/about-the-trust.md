@@ -35,27 +35,23 @@ Working alongside Murry Toms, the Trust relaunched in October 2017, with a new p
 **Our aims –  to RISE:**
 
 1. REPRESENT
-
 * Every single Robins Trust member and supporter of Cheltenham Town
 * Be a trusted point of contact for every Cheltenham Town fan
 * Be open, inclusive and democratic, to ensure all fans are represented
 
 2. INFLUENCE
-
 * Ensure that the needs and wants of all supporters are respected by the Football Club board, through our Fan Elected Director
 * Encourage the Football Club to put the views of the supporters first and foremost in every decision they make.
 * Ensure that the Fan Elected Director is open, accountable and communicates regularly with all supporters
 
 3. SERVE
-
 * Every supporter, regardless of age, gender, race, religion or disability
 * The whole community of Cheltenham Town fans
 * The community where our Football Club is based
 
 4. ENCOURAGE
-
 * The Football Club to better serve the community it represents
-  *The Football Club to achieve excellence on the pitch by developing home-grown footballers for the first team
+* The Football Club to achieve excellence on the pitch by developing home-grown footballers for the first team
 * A friendly and vibrant fan culture, in order to improve numbers and atmosphere
 
 **With the aim of:**
