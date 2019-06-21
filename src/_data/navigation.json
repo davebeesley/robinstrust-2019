@@ -25,16 +25,16 @@
       "button": false
     },
     {
-      "text": "Join Now!",
-      "url": "https://app.clubbase.io/signup/3d1a610d-17bc-40e7-acc5-2c0c5d715e17?locale=en",
-      "external": true,
-      "button": true
-    },
-    {
       "text": "Contact",
       "url": "/contact/index.html",
       "external": false,
       "button": false
+    },
+    {
+      "text": "Join Now!",
+      "url": "https://app.clubbase.io/signup/3d1a610d-17bc-40e7-acc5-2c0c5d715e17?locale=en",
+      "external": true,
+      "button": true
     }
   ]
 }
