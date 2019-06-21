@@ -1,5 +1,8 @@
 .intro {
-  background: var(--color-theme-highlight);
+  background-color: var(--color-theme-highlight);
+  background-size: cover;
+  background-blend-mode: multiply;
+  background-position: center;
 
   &__summary {
     --flow-space: #{get-size(500)};
