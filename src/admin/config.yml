@@ -122,14 +122,14 @@ collections:
               name: 'enableThirdPartyComments',
               widget: 'boolean',
               default: false,
-            },
-          - {label: 'Affiliate Name', name: 'affiliateName', widget: 'string'},
+            }
+          - {label: 'Affiliate Name', name: 'affiliateName', widget: 'string'}
           - {
               label: 'Affiliate Logo',
               name: 'affiliateLogo',
               widget: 'image',
               required: false,
-            },
+            }
           - {label: 'Affiliate Url', name: 'affiliateUrl', widget: 'string'}
       - label: 'Navigation'
         name: 'nav'
