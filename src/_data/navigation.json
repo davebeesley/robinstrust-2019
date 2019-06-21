@@ -11,6 +11,11 @@
       "external": false
     },
     {
+      "text": "Board",
+      "url": "/board",
+      "external": false
+    },
+    {
       "text": "News",
       "url": "/archive",
       "external": false
