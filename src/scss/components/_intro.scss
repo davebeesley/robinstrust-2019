@@ -15,10 +15,6 @@
         text-decoration: none;
       }
     }
-
-    &--light {
-      color: var(--color-text--light);
-    }
   }
 
   &__heading {
@@ -31,5 +27,9 @@
 
   &__meta {
     color: var(--color-theme-primary);
+  }
+
+  &--light {
+    color: var(--color-text--light);
   }
 }

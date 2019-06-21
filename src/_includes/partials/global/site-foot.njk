@@ -8,6 +8,12 @@
         </article>
       {% endif %}
       {% include "partials/components/nav.njk" %}
+      {% if site.affiliateLogo %}
+        <a href="{{ site.affiliateUrl }}" class="[ site-foot__affiliate-name ] [ leading-tight ]">
+          <span class="[ site-foot__affiliate-name ] [ text-600 ] visually-hidden" aria-hidden="true">{{ site.affiliateName }}</span>
+          <img src="{{ site.url }}{{ site.affiliateLogo }}" alt="{{ site.affiliateName }}" class="site-foot__affiliate-logo">
+        </a>
+      {% endif %}
     </div>
     {% if site.showThemeCredit %}
       <p class="[ site-foot__credit ] [ pad-top-900 ]">
