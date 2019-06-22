@@ -155,7 +155,7 @@ collections:
                   default: false,
                 }
       - label: 'Join Button'
-        name: 'items'
+        name: 'joinButton'
         widget: 'object'
         fields:
           - {label: 'Text', name: 'text', widget: 'string'}
