@@ -11,6 +11,14 @@
         {% endif %}
       </a>
       {% include "partials/components/nav.njk" %}
-    </div>
+      {% if joinButton.url %}
+        {% set externalAttribute = '' %}
+
+        {% if item.external %}
+          {% set externalAttribute = ' rel="external"' %}
+        {% endif %}
+        <a href="{{ joinButton.url }}"{{ externalAttribute | safe }} class="button>{{ joinButton.text }}</a>
+      {% endif %}
+     </div>
   </div>
 </header>
