@@ -154,18 +154,18 @@ collections:
                   widget: 'boolean',
                   default: false,
                 }
-      - label: 'Join Button'
-        name: 'joinButton'
-        widget: 'object'
-        fields:
-          - {label: 'Text', name: 'text', widget: 'string'}
-          - {label: 'Url', name: 'url', widget: 'string'}
-          - {
-              label: 'Is url to external site?',
-              name: 'external',
-              widget: 'boolean',
-              default: false,
-            }
+          - label: 'Join Button'
+            name: 'joinButton'
+            widget: 'object'
+            fields:
+              - {label: 'Text', name: 'text', widget: 'string'}
+              - {label: 'Url', name: 'url', widget: 'string'}
+              - {
+                  label: 'Is url to external site?',
+                  name: 'external',
+                  widget: 'boolean',
+                  default: false,
+                }
       - label: 'Theme Settings'
         name: 'theme'
         delete: false
