@@ -4,7 +4,7 @@ title: Leo Hoenig
 role: Board Member
 metaTitle: Leo Hoenig | Board Member | Robins Trust
 metaDesc: Leo Hoenig is a Board Member for the Robins Trust
-socialImage: /images/placeholder-profile_3.png
+socialImage: /images/leo-hoenig-resized.jpg
 date: 2019-06-22T13:19:43.002Z
 ---
 
