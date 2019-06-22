@@ -7,7 +7,7 @@ metaDesc: >-
   Louise Plumb is the External Director in charge of Finance, advising the Trust
   Board. Louise advises the Board on financial matters and compiles the annual
   accounts
-socialImage: /images/placeholder-profile_3.png
+socialImage: /images/louise-plumb-resized.jpg
 date: 2019-06-22T15:42:41.668Z
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis et malesuada eros, quis venenatis libero. Suspendisse cursus leo sit amet augue pretium fringilla. Suspendisse potenti. Nunc nec efficitur ipsum. Quisque erat nisl, fringilla eget quam et, ullamcorper porttitor erat.
