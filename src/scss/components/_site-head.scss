@@ -1,8 +1,29 @@
 .site-head {
+  &__inner {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
   &__site-name {
     font-weight: 700;
     text-decoration: none;
     color: var(--color-text);
+  }
+
+  &__join-button {
+    order: 2;
+
+    @include media-query('md') {
+      order: initial;
+    }
+  }
+
+  .nav {
+    order: 3;
+
+    @include media-query('md') {
+      order: initial;
+    }
   }
 
   &__site-logo {

@@ -18,7 +18,9 @@
         {% if joinButton.external %}
           {% set externalAttribute = ' rel="external"' %}
         {% endif %}
-        <a href="{{ joinButton.url }}"{{ externalAttribute | safe }} class="button">{{ joinButton.text }}</a>
+        <div class="site-head__join-button">
+          <a href="{{ joinButton.url }}"{{ externalAttribute | safe }} class="button">{{ joinButton.text }}</a>
+        </div>
       {% endif %}
      </div>
   </div>
