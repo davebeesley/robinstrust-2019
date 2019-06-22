@@ -42,6 +42,10 @@ module.exports = function(config) {
       .slice(0, site.maxPostsPerPage);
   });
 
+  config.addCollection('board', collection => {
+    return [...collection.getFilteredByGlob('./src/board/*.md')];
+  });
+
   // Plugins
   config.addPlugin(rssPlugin);
   config.addPlugin(syntaxHighlight);

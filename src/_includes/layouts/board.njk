@@ -1,0 +1,17 @@
+{% extends 'layouts/base.njk' %}
+{% set pageType = 'Trust Board' %}
+
+{# Intro content #}
+{% set introHeading = title %}
+{% set introSummary %}{{ content | safe }}{% endset %}
+
+{# Board list content #}
+{% set boardHeading = 'Board Members' %}
+{% set boardItems = collections.board %}
+
+{% block content %}
+  <main id="main-content" tabindex="-1">
+    {% include "partials/components/intro.njk" %}
+    {% include "partials/components/board-list.njk" %}
+  </main>
+{% endblock %}
