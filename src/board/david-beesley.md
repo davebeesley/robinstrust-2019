@@ -1,7 +1,7 @@
 ---
 layout: layouts/board-member.njk
 title: David Beesley
-role: Vice Chair & Fan Elected Director
+role: Vice Chair & FED
 metaTitle: David Beesley | Vice Chair & Fan Elected Director | Robins Trust
 metaDesc: >-
   David Beesley is the Vice Chairman of the Robins Trust, and Fan Elected
