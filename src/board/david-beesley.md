@@ -6,7 +6,7 @@ metaTitle: David Beesley | Vice Chair & Fan Elected Director | Robins Trust
 metaDesc: >-
   David Beesley is the Vice Chairman of the Robins Trust, and Fan Elected
   Director to the Club Board
-socialImage: /images/placeholder-profile_3.png
+socialImage: /images/david-beesley-resized.jpg
 date: 2019-06-22T13:16:28.510Z
 ---
 
