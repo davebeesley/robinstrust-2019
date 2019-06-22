@@ -1,25 +1,23 @@
 .board-list {
   &__items {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-  }
-
-  &__item {
-    flex: 0 0 100%;
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 4px;
 
     @include media-query('sm') {
-      flex: 0 0 50%;
+      grid-template-columns: repeat(2, 1fr);
     }
 
     @include media-query('md') {
-      flex: 0 0 33.3333%;
+      grid-template-columns: repeat(3, 1fr);
     }
 
     @include media-query('lg') {
-      flex: 0 0 25%;
+      grid-template-columns: repeat(4, 1fr);
     }
+  }
 
+  &__item {
     &__image {
       background-color: var(--color-theme-highlight);
 
