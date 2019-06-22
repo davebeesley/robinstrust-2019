@@ -20,10 +20,19 @@
   &__item {
     &__image {
       background-color: var(--color-theme-highlight);
+      width: 100%;
+      padding-bottom: 125%;
+      position: relative;
 
       img {
         display: block;
+        left: 0;
+        height: 100%;
         mix-blend-mode: multiply;
+        object-fit: cover;
+        position: absolute;
+        top: 0;
+        width: 100%;
       }
     }
 
