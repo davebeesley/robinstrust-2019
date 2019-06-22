@@ -22,4 +22,12 @@
       }
     }
   }
+
+  &__details {
+    max-width: 350px;
+
+    p {
+      font-size: get-size(300);
+    }
+  }
 }
