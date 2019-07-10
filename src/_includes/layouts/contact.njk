@@ -10,20 +10,22 @@
     {% include "partials/components/intro.njk" %}
     <section class="[ pad-top-700 gap-bottom-900 ]">
       <div class="[ inner-wrapper ] [ sf-flow ]">
-        <form name="contact" netlify>
-          <p>
-            <label>Name <input type="text" name="name" /></label>
-          </p>
-          <p>
-            <label>Email <input type="email" name="email" /></label>
-          </p>
-          <p>
-            <label>Message <textarea name="message"></textarea></label>
-          </p>
-          <p>
-            <button type="submit">Send</button>
-          </p>
-        </form>
+        <div class="boilerform">
+          <form name="contact" netlify>
+            <p>
+              <label>Name <input type="text" name="name" /></label>
+            </p>
+            <p>
+              <label>Email <input type="email" name="email" /></label>
+            </p>
+            <p>
+              <label>Message <textarea name="message"></textarea></label>
+            </p>
+            <p>
+              <button type="submit">Send</button>
+            </p>
+          </form>
+        </div>
       </div>
     </section>
   </main>
