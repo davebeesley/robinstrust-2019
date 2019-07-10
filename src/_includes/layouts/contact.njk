@@ -12,18 +12,23 @@
       <div class="[ inner-wrapper ] [ sf-flow ]">
         <div class="boilerform">
           <form name="contact" netlify>
-            <p>
-              <label>Name <input type="text" name="name" /></label>
-            </p>
-            <p>
-              <label>Email <input type="email" name="email" /></label>
-            </p>
-            <p>
-              <label>Message <textarea name="message"></textarea></label>
-            </p>
-            <p>
-              <button type="submit">Send</button>
-            </p>
+            <fieldset class="c-form">
+              <div class="c-form__row">
+                <label class="c-label">Name</label>
+                <input type="text" name="name" autocapitalize="none" autocorrect="off" class="c-input-field" required />
+              </div>
+              <div class="c-form__row">
+                <label class="c-label">Email</label>
+                <input type="email" name="email" autocapitalize="none" autocorrect="off" class="c-input-field" required />
+              </div>
+              <div class="c-form__row">
+                <label class="c-label">Message</label>
+                <textarea name="message" class="c-input-field c-input-field--multiline" autocapitalize="none" autocorrect="off" required></textarea>
+              </div>
+              <div class="c-form__row">
+                <button type="submit" class="c-button">Send</button>
+              </div>
+            </fieldset>
           </form>
         </div>
       </div>
