@@ -9,6 +9,8 @@ postsHeading: Latest posts
 archiveButtonText: See all posts
 socialImage: /images/crowd.jpg
 ---
-Need to write some inspiring copy for here. About 20 words/2 paras
+The Robins Trust has endeavoured since 2005 to bring together Cheltenham Town FC and it's fan base.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nec ornare lacus. Sed vitae tristique mi. Vivamus est odio, ultricies vitae velit a, viverra auctor dui. In vel volutpat metus.
+We achieve this through a clear dialog between the Trust Members, our Board and the Board of the Club via our Fan Elected Director.
+
+The Trust's role is that of a _Critical Friend_ to the Club - providing advice, insight and fundraising (via share investment) to the Club when it needs it most
