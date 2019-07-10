@@ -6,8 +6,7 @@ metaTitle: Nathan Mattick | Disability & Equal Opportunities Officer | Robins Tr
 metaDesc: >-
   Nathan Mattick is the Disability and Equal Opportunities Officer on the Robins
   Trust Board
-socialImage: /images/placeholder-profile_3.png
-date: 2019-06-22T15:34:15.190Z
+socialImage: /images/nathan-mattick.jpg
 ---
 
 Nathan is the first wheelchair user to quality as a football referee in the UK. He is a regular volunteer at the club on match days. He’s been part of the board since 2016.
