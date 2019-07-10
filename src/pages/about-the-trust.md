@@ -4,7 +4,7 @@ title: About the Trust
 permalink: about/index.html
 metaTitle: About
 metaDesc: About
-socialImage: /images/demo-image-1.jpg
+socialImage: ''
 ---
 **The Robins Trust was founded in 2005 following an open meeting of Cheltenham Town supporters.**
 
