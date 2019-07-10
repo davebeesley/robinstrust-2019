@@ -6,6 +6,7 @@
         {% for item in boardItems %}
           <li class="[ board-list__item ]">
             {#<a href="{{ item.url }}" class="board-list__link" rel="bookmark">#}
+              <div class="board-list__link">
                 <div class="board-list__item__image">
                     <img src="{{ site.url }}{{ item.data.socialImage }}" alt="{{ item.data.title }}">
                 </div>
@@ -17,6 +18,7 @@
                         {{ item.data.role  }}
                     </p>
                 </div>
+              </div>
             {#</a>#}
           </li>
         {% endfor %}
