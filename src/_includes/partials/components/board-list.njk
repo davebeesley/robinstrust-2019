@@ -5,7 +5,7 @@
       <ol class="[ board-list__items ] [ pad-top-300 ]">
         {% for item in boardItems %}
           <li class="[ board-list__item ]">
-            <a href="{{ item.url }}" class="board-list__link" rel="bookmark">
+            {#<a href="{{ item.url }}" class="board-list__link" rel="bookmark">#}
                 <div class="board-list__item__image">
                     <img src="{{ site.url }}{{ item.data.socialImage }}" alt="{{ item.data.title }}">
                 </div>
@@ -17,7 +17,7 @@
                         {{ item.data.role  }}
                     </p>
                 </div>
-            </a>
+            {#</a>#}
           </li>
         {% endfor %}
       </ol>
