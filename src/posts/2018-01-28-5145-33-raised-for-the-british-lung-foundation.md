@@ -1,14 +1,9 @@
 ---
 title: £5,145.33 raised for the British Lung Foundation
-author: admin2438
-type: post
-date: 2018-01-28T09:48:08+00:00
+author: Robins Trust
+date: '2018-01-28'
 url: /5145-33-raised-for-the-british-lung-foundation/
-categories:
-  - Uncategorized
-
 ---
-<img class="aligncenter size-full wp-image-726" src="//robinstrust.org/wp-content/uploads/2018/01/Screen-Shot-2018-01-28-at-09.36.10.png" alt="" width="834" height="554" srcset="http://robinstrust.test/wp-content/uploads/2018/01/Screen-Shot-2018-01-28-at-09.36.10.png 834w, http://robinstrust.test/wp-content/uploads/2018/01/Screen-Shot-2018-01-28-at-09.36.10-300x199.png 300w, http://robinstrust.test/wp-content/uploads/2018/01/Screen-Shot-2018-01-28-at-09.36.10-768x510.png 768w" sizes="(max-width: 834px) 100vw, 834px" />
 
 **Last night our online auction of match worn shirts drew to a close with supporters vying for a piece of Cheltenham Town history.**
 
@@ -21,8 +16,6 @@ The money raised last night will be added to the proceeds of the bucket collecti
 In the end, going blue for Crewe raised **£5,145.33** for the [British Lung Foundation][2].
 
 It was an initiative by the fans to put on a show of togetherness with Vicky Veness and Ian Hutton, while raising funds and awareness for the UK&#8217;s only charity that looks after the nation&#8217;s lungs.
-
-<img class="aligncenter size-full wp-image-727" src="//robinstrust.org/wp-content/uploads/2018/01/Screen-Shot-2018-01-28-at-09.45.13.png" alt="" width="833" height="552" srcset="http://robinstrust.test/wp-content/uploads/2018/01/Screen-Shot-2018-01-28-at-09.45.13.png 833w, http://robinstrust.test/wp-content/uploads/2018/01/Screen-Shot-2018-01-28-at-09.45.13-300x199.png 300w, http://robinstrust.test/wp-content/uploads/2018/01/Screen-Shot-2018-01-28-at-09.45.13-768x509.png 768w" sizes="(max-width: 833px) 100vw, 833px" />
 
 With the event gaining local and national attention in the media, including an appearance on Sky Sports&#8217; Soccer AM, we achieved everything we set out to do.
 
@@ -42,51 +35,47 @@ Full details of [how to get there as well as contact details can be found on the
 
 If you have any questions at all for the Trust, please get in touch at **info@robinstrust.org**.
 
-<img class="aligncenter size-full wp-image-725" src="//robinstrust.org/wp-content/uploads/2018/01/Screen-Shot-2018-01-28-at-09.36.31.png" alt="" width="831" height="554" srcset="http://robinstrust.test/wp-content/uploads/2018/01/Screen-Shot-2018-01-28-at-09.36.31.png 831w, http://robinstrust.test/wp-content/uploads/2018/01/Screen-Shot-2018-01-28-at-09.36.31-300x200.png 300w, http://robinstrust.test/wp-content/uploads/2018/01/Screen-Shot-2018-01-28-at-09.36.31-768x512.png 768w" sizes="(max-width: 831px) 100vw, 831px" />
-
 **How £5,145.33 was raised:**
 
 Online auction: £2,783
 
-  * Harry Pell £503
-  * Carl Winchester £220
-  * Dan O’Shaughnessy £214
-  * Kyle Storer £198
-  * George Lloyd £162
-  * Mo Eisa £156
-  * Soccer AM shirt £152
-  * Joe Morrell £152
-  * Jerrell Sellars £152
-  * Freddie Hinds £142
-  * Kevin Dawson £132
-  * Nigel Atangana £132
-  * Will Boyle £104
-  * Taylor Moore £98
-  * Matt Bower £84
-  * Blank shirts £130
+- Harry Pell £503
+- Carl Winchester £220
+- Dan O’Shaughnessy £214
+- Kyle Storer £198
+- George Lloyd £162
+- Mo Eisa £156
+- Soccer AM shirt £152
+- Joe Morrell £152
+- Jerrell Sellars £152
+- Freddie Hinds £142
+- Kevin Dawson £132
+- Nigel Atangana £132
+- Will Boyle £104
+- Taylor Moore £98
+- Matt Bower £84
+- Blank shirts £130
 
 Bucket collection: £1,304.32
 
-  * Including Peter Matthews BBC commentary match fee
+- Including Peter Matthews BBC commentary match fee
 
 Main bar auction with writer and broadcaster Tom Watt: £300
 
-  * Danny Wright&#8217;s shirt £80 (voted for by the fans in online poll)
-  * Neil Grayson shirt £30 (returned by winning bidder for online auction)
-  * Carabao Cup Final tickets £100 (supplied by the EFL)
-  * EFL official Mitre match ball £90 (supplied by the EFL)
+- Danny Wright&#8217;s shirt £80 (voted for by the fans in online poll)
+- Neil Grayson shirt £30 (returned by winning bidder for online auction)
+- Carabao Cup Final tickets £100 (supplied by the EFL)
+- EFL official Mitre match ball £90 (supplied by the EFL)
 
 Hospitality auction £190
 
-  * Jamie Grimes&#8217; shirt
+- Jamie Grimes&#8217; shirt
 
 Text to donate: £230
 
 Suggested donations in club shop: £338.01
 
-<img class="aligncenter size-full wp-image-724" src="//robinstrust.org/wp-content/uploads/2018/01/Screen-Shot-2018-01-28-at-09.36.41.png" alt="" width="831" height="553" srcset="http://robinstrust.test/wp-content/uploads/2018/01/Screen-Shot-2018-01-28-at-09.36.41.png 831w, http://robinstrust.test/wp-content/uploads/2018/01/Screen-Shot-2018-01-28-at-09.36.41-300x200.png 300w, http://robinstrust.test/wp-content/uploads/2018/01/Screen-Shot-2018-01-28-at-09.36.41-768x511.png 768w" sizes="(max-width: 831px) 100vw, 831px" />
-
- [1]: https://www.amsauctions.co.uk/
- [2]: https://www.blf.org.uk/
- [3]: http://www.gloucestershirelive.co.uk/news/cheltenham-news/new-year-new-start-30-1073380
- [4]: https://www.amsauctions.co.uk/pages/contact-us.html
+[1]: https://www.amsauctions.co.uk/
+[2]: https://www.blf.org.uk/
+[3]: http://www.gloucestershirelive.co.uk/news/cheltenham-news/new-year-new-start-30-1073380
+[4]: https://www.amsauctions.co.uk/pages/contact-us.html

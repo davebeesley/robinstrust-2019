@@ -1,13 +1,10 @@
 ---
 title: Submit your Questions to the Club for the upcoming Fans Forum
 author: Robins Trust
-type: post
-date: 2019-03-23T11:25:15+00:00
+date: '2019-03-23'
 url: /submit-your-questions-to-the-club-for-the-upcoming-fans-forum/
-categories:
-  - Uncategorized
-
 ---
+
 This week, the Football Club are holding their annual shareholders meeting and fans forum and the Trust will be in attendance.
 
 Through the Trust, the fans are the fourth largest shareholder in Cheltenham Town and we always want to ensure views of the average fan are heard by the board.

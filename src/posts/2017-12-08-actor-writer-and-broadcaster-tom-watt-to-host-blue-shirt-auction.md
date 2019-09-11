@@ -1,14 +1,9 @@
 ---
 title: Actor, writer and broadcaster Tom Watt to host blue shirt auction
-author: admin2438
-type: post
-date: 2017-12-08T10:03:14+00:00
+author: Robins Trust
+date: '2017-12-08'
 url: /actor-writer-and-broadcaster-tom-watt-to-host-blue-shirt-auction/
-categories:
-  - Events
-
 ---
-<img class="aligncenter size-full wp-image-683" src="//robinstrust.org/wp-content/uploads/2017/12/blue_day_3_1600_900.jpg" alt="" width="1600" height="900" srcset="http://robinstrust.test/wp-content/uploads/2017/12/blue_day_3_1600_900.jpg 1600w, http://robinstrust.test/wp-content/uploads/2017/12/blue_day_3_1600_900-300x169.jpg 300w, http://robinstrust.test/wp-content/uploads/2017/12/blue_day_3_1600_900-768x432.jpg 768w, http://robinstrust.test/wp-content/uploads/2017/12/blue_day_3_1600_900-1024x576.jpg 1024w" sizes="(max-width: 1600px) 100vw, 1600px" />
 
 **This weekend we&#8217;re helping to turn Cheltenham Town blue to raise awareness for the work done by the British Lung Foundation.**
 
@@ -46,8 +41,6 @@ We&#8217;re truly thankful for everyone who has offered to play their part in th
 
 **Come on you blues!**
 
-<img class="aligncenter size-full wp-image-658" src="//robinstrust.org/wp-content/uploads/2017/11/txt_donate.jpg" alt="" width="1600" height="900" srcset="http://robinstrust.test/wp-content/uploads/2017/11/txt_donate.jpg 1600w, http://robinstrust.test/wp-content/uploads/2017/11/txt_donate-300x169.jpg 300w, http://robinstrust.test/wp-content/uploads/2017/11/txt_donate-768x432.jpg 768w, http://robinstrust.test/wp-content/uploads/2017/11/txt_donate-1024x576.jpg 1024w" sizes="(max-width: 1600px) 100vw, 1600px" />
-
- [1]: http://robinstrust.org/blue-christmas-fans-fest-dj-shippers-plus-special-guests-to-kickstart-charity-day/
- [2]: http://robinstrust.org/open-day-2017-no-dramas-robins-trust-to-launch-aaron-downes-legend-t-shirt/
- [3]: https://www.amsauctions.co.uk/pages/about-us.html
+[1]: http://robinstrust.org/blue-christmas-fans-fest-dj-shippers-plus-special-guests-to-kickstart-charity-day/
+[2]: http://robinstrust.org/open-day-2017-no-dramas-robins-trust-to-launch-aaron-downes-legend-t-shirt/
+[3]: https://www.amsauctions.co.uk/pages/about-us.html

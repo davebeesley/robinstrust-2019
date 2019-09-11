@@ -1,14 +1,9 @@
 ---
 title: 'Accrington Stanley programme notes: Membership packs are coming!'
-author: admin2438
-type: post
-date: 2018-01-17T16:21:41+00:00
+author: Robins Trust
+date: '2018-01-17'
 url: /accrington-stanley-programme-notes-membership-packs-are-coming/
-categories:
-  - Uncategorized
-
 ---
-<img class="aligncenter size-full wp-image-714" src="//robinstrust.org/wp-content/uploads/2018/01/Cheltenham-v-Accrington-16x9.jpg" alt="" width="1600" height="900" srcset="http://robinstrust.test/wp-content/uploads/2018/01/Cheltenham-v-Accrington-16x9.jpg 1600w, http://robinstrust.test/wp-content/uploads/2018/01/Cheltenham-v-Accrington-16x9-300x169.jpg 300w, http://robinstrust.test/wp-content/uploads/2018/01/Cheltenham-v-Accrington-16x9-768x432.jpg 768w, http://robinstrust.test/wp-content/uploads/2018/01/Cheltenham-v-Accrington-16x9-1024x576.jpg 1024w" sizes="(max-width: 1600px) 100vw, 1600px" />
 
 **It&#8217;s good to be back for the first match of the year, _wrote Murry Toms in our programme notes for the Accrington Stanley match._**
 
@@ -58,4 +53,4 @@ You&#8217;ll find all the details on both our website and ctfc.com, plus all the
 
 So far we&#8217;ve raised close to £2,500 so far I&#8217;d love to see us hit the £4,000-mark so get behind a great cause and grab a piece of Robins&#8217; history in the process!
 
- [1]: https://www.amsauctions.co.uk/catalogue.cgi?auction=1277
+[1]: https://www.amsauctions.co.uk/catalogue.cgi?auction=1277

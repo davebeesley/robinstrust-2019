@@ -1,13 +1,10 @@
 ---
 title: Murry Toms stands down as Fan Elected Director
 author: Robins Trust
-type: post
-date: 2018-04-26T13:00:40+00:00
+date: '2018-04-26'
 url: /murry-toms-stands-down-as-fan-elected-director/
-categories:
-  - Uncategorized
-
 ---
+
 The Robins Trust’s Fan Elected Director Murry Toms has decided to stand down from his role on the Cheltenham Town board with immediate effect due to personal reasons.
 
 Murry was elected by Trust members to serve a two-year term as FED, but has decided to stand down after 12 months because of his busy work life and the desire to spend more time with his family.

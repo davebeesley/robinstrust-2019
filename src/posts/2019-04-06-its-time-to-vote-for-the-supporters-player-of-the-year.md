@@ -1,13 +1,10 @@
 ---
 title: It’s time to vote for the Supporters Player of the Year
 author: Robins Trust
-type: post
-date: 2019-04-06T08:24:29+00:00
+date: '2019-04-06'
 url: /its-time-to-vote-for-the-supporters-player-of-the-year/
-categories:
-  - Uncategorized
-
 ---
+
 As we enter the final month of the season, attention turns to who will be our player of the season.
 
 At Cheltenham Town the award for Supporters Player of the Year has a special resonance and importance for the Robins Trust.
@@ -45,10 +42,6 @@ The winner will follow Danny Wright, Billy Waters and Mo Eisa in having their na
 So, when the forms go out, or the tweet directs you to place your vote. Do so, not only to reward this year&#8217;s best performer, but to thank and recognise Bryan Jacob and his legacy given to the supporters of our Football Club.
 
 James Young, Robins Trust chair
-
-
-  
-
 
 <noscript>
   <a href="https://poll.fm/10287325">Who is your choice for the Supporters Player of the Year award?</a>

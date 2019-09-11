@@ -1,13 +1,10 @@
 ---
 title: Footie for a fiver – Exclusive offer at Bishop’s Cleeve FC for Trust members
 author: Robins Trust
-type: post
-date: 2018-07-05T17:30:10+00:00
+date: '2018-07-05'
 url: /footie-for-a-fiver/
-categories:
-  - Uncategorized
-
 ---
+
 The Robins Trust is delighted to announce that we have linked up with Bishop’s Cleeve Football Club with a special offer exclusive to Trust members.
 
 Trust members will be able to gain adult admission to Mitres’ home games for just £5 on Saturdays when the Robins aren’t at home.

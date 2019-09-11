@@ -1,14 +1,10 @@
 ---
 title: The Robins Trust would like to pay tribute to Paul Baker
 author: Robins Trust
-type: post
-date: 2018-05-06T15:30:01+00:00
+date: '2018-05-06'
 url: /the-robins-trust-would-like-to-pay-tribute-to-paul-baker/
-featured_image: /wp-content/uploads/2017/09/Screen-Shot-2017-10-04-at-10.33.43-604x270.png
-categories:
-  - Uncategorized
-
 ---
+
 **The man who helped transform our Football Club**
 
 Now that it has been confirmed that Paul is standing down as chairman of Cheltenham Town, it is only right that we thank him for his extraordinary efforts over the past two decades.

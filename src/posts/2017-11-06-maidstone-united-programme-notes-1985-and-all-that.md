@@ -1,14 +1,11 @@
 ---
 title: 'Maidstone United programme notes: 1985 and all that'
-author: admin2438
-type: post
-date: 2017-11-06T17:37:29+00:00
+author: Robins Trust
+date: '2017-11-06'
 url: /maidstone-united-programme-notes-1985-and-all-that/
-categories:
+tags:
   - Uncategorized
-
 ---
-<img class="aligncenter size-full wp-image-639" src="//robinstrust.org/wp-content/uploads/2017/11/1985-1986_Cheltenham_Town.jpeg" alt="" width="680" height="340" srcset="http://robinstrust.test/wp-content/uploads/2017/11/1985-1986_Cheltenham_Town.jpeg 680w, http://robinstrust.test/wp-content/uploads/2017/11/1985-1986_Cheltenham_Town-300x150.jpeg 300w" sizes="(max-width: 680px) 100vw, 680px" />
 
 **It&#8217;s been another busy week at the Robins Trust, _wrote Dave Jennings in our programme notes for the FA Cup first round match against Maidstone United._**
 
@@ -46,6 +43,6 @@ Whaddon Road was the venue and there was over 1,000 spectators (a rare occurrenc
 
 The victory set us up for a tough but enjoyable first season at that level and we eventually finished 11th in the league – won that season by Enfield.
 
- [1]: http://www.thekemblebrewerycheltenham.co.uk
- [2]: https://www.facebook.com/The-Kemble-Brewery-Inn-183883215019415/
- [3]: http://robinstrust.org/trust-members-receive-ticket-priority-for-forest-green-rovers-match/
+[1]: http://www.thekemblebrewerycheltenham.co.uk
+[2]: https://www.facebook.com/The-Kemble-Brewery-Inn-183883215019415/
+[3]: http://robinstrust.org/trust-members-receive-ticket-priority-for-forest-green-rovers-match/

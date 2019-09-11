@@ -1,13 +1,10 @@
 ---
 title: 'Elections to the Robins Trust Board 2018: Process and Timetable'
 author: Robins Trust
-type: post
-date: 2018-08-23T17:29:36+00:00
+date: '2018-08-23'
 url: /elections-to-the-robins-trust-board-2018-process-and-timetable/
-categories:
-  - Uncategorized
-
 ---
+
 <span style="font-weight: 400;">The election will follow the following process:</span>
 
 <li style="font-weight: 400;">
@@ -68,9 +65,9 @@ categories:
   <span style="font-weight: 400;">The new Robins Trust board will meet for a general board meeting within ONE month of the AGM.</span>
 </li>
 
-**Click [HERE][1]**** for a Robins Trust Board Member nomination form**
+**Click [HERE][1]\*\*** for a Robins Trust Board Member nomination form\*\*
 
 **All forms, and corresponding confirmation messages from proposers must be sent to** [**elections@robinstrust.org**][2] **by the relevant dates listed above.**
 
- [1]: https://robinstrust.org/wp-content/uploads/2018/08/Trust-Elections-2018-Board-Nomination-Form.pdf
- [2]: mailto:elections@robinstrust.org
+[1]: https://robinstrust.org/uploads/Trust-Elections-2018-Board-Nomination-Form.pdf
+[2]: mailto:elections@robinstrust.org

@@ -1,13 +1,10 @@
 ---
 title: 'Election Results & Update on AGM and Fans Forum'
 author: Robins Trust
-type: post
-date: 2018-09-25T09:19:25+00:00
+date: '2018-09-25'
 url: /election-results-update-on-agm-and-fans-forum/
-categories:
-  - Uncategorized
-
 ---
+
 The Robins Trust are pleased to announce the conclusion of the nominations process for elections to the Trust Board and of the Fan Elected Director.
 
 Both elections were held in accordance to the Trust’s Rules and Elections Policy and were overseen by an independent scrutineer; Neil Le Milliere of the Exeter City Supporters Trust.
@@ -44,4 +41,4 @@ Finally, the Trust Board would like to thank Deborah Dilworth at Supporters Dire
 
 A copy of the report by independent scrutineer, Neil Le Milliere, can be found [here][1]
 
- [1]: https://robinstrust.org/wp-content/uploads/2018/09/CHELTENHAM-INDEPENDENT-SCRUTINEER’S-REPORT-AND-ELECTION-RESULTS-SEP-201828937.pdf
+[1]: https://robinstrust.org/uploads/CHELTENHAM-INDEPENDENT-SCRUTINEER’S-REPORT-AND-ELECTION-RESULTS-SEP-201828937.pdf

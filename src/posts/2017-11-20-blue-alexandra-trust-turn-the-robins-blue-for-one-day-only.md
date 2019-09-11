@@ -1,14 +1,11 @@
 ---
 title: 'Blue Alexandra: Trust turn the Robins blue for one day only'
-author: admin2438
-type: post
-date: 2017-11-20T13:05:59+00:00
+author: Robins Trust
+date: '2017-11-20'
 url: /blue-alexandra-trust-turn-the-robins-blue-for-one-day-only/
-categories:
+tags:
   - News
-
 ---
-**<img class="aligncenter size-full wp-image-649" src="//robinstrust.org/wp-content/uploads/2017/11/5.jpg" alt="" width="1600" height="900" srcset="http://robinstrust.test/wp-content/uploads/2017/11/5.jpg 1600w, http://robinstrust.test/wp-content/uploads/2017/11/5-300x169.jpg 300w, http://robinstrust.test/wp-content/uploads/2017/11/5-768x432.jpg 768w, http://robinstrust.test/wp-content/uploads/2017/11/5-1024x576.jpg 1024w" sizes="(max-width: 1600px) 100vw, 1600px" />**
 
 **For the first time in their history, Cheltenham Town are turning blue – but don&#8217;t worry, it&#8217;s all for a great cause.**
 
@@ -33,8 +30,6 @@ Murry Toms, Fan Elected Director said: “The important thing about football is 
 Chairman Paul Baker said: &#8220;We are delighted as a club to come together as one to show our support for the British Lung Foundation and, of course, our coach Ian Hutton and his fiancée Vicky.
 
 &#8220;We hope the move from our traditional colours to a striking new one-off blue kit, the colour of the charity, will give a very visual show of support and raise both awareness and vital funds for this important cause.&#8221;
-
-<img class="aligncenter size-full wp-image-650" src="//robinstrust.org/wp-content/uploads/2017/11/Screen-Shot-2017-11-20-at-10.18.07.png" alt="" width="790" height="507" srcset="http://robinstrust.test/wp-content/uploads/2017/11/Screen-Shot-2017-11-20-at-10.18.07.png 790w, http://robinstrust.test/wp-content/uploads/2017/11/Screen-Shot-2017-11-20-at-10.18.07-300x193.png 300w, http://robinstrust.test/wp-content/uploads/2017/11/Screen-Shot-2017-11-20-at-10.18.07-768x493.png 768w" sizes="(max-width: 790px) 100vw, 790px" />
 
 **Lung Cancer Awareness Month**
 
@@ -67,5 +62,3 @@ Afterwards the Trust will auction one of the match-worn shirts in the bar, and e
 The remainder of the squad&#8217;s shirts will be auctioned online to raise more money for the charity and we will be releasing more details in the weeks to come.
 
 **• Supporters can donate £3 to the British Lung Foundation by simply texting CTFC17 £3 to 70070, and every penny will go directly to the charity. It&#8217;s open now and will remain so until after the game on December 9. We can make a difference today.**
-
-<img class="aligncenter size-full wp-image-658" src="//robinstrust.org/wp-content/uploads/2017/11/txt_donate.jpg" alt="" width="1600" height="900" srcset="http://robinstrust.test/wp-content/uploads/2017/11/txt_donate.jpg 1600w, http://robinstrust.test/wp-content/uploads/2017/11/txt_donate-300x169.jpg 300w, http://robinstrust.test/wp-content/uploads/2017/11/txt_donate-768x432.jpg 768w, http://robinstrust.test/wp-content/uploads/2017/11/txt_donate-1024x576.jpg 1024w" sizes="(max-width: 1600px) 100vw, 1600px" />

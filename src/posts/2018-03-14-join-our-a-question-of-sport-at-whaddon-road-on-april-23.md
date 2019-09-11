@@ -1,14 +1,11 @@
 ---
 title: Join our A Question of Sport at Whaddon Road on April 23
-author: admin2438
-type: post
-date: 2018-03-14T21:10:57+00:00
+author: Robins Trust
+date: '2018-03-14'
 url: /join-our-a-question-of-sport-at-whaddon-road-on-april-23/
-categories:
+tags:
   - Events
-
 ---
-<img class="aligncenter size-full wp-image-733" src="//robinstrust.org/wp-content/uploads/2018/03/questionofsport5-1.jpg" alt="" width="950" height="592" srcset="http://robinstrust.test/wp-content/uploads/2018/03/questionofsport5-1.jpg 950w, http://robinstrust.test/wp-content/uploads/2018/03/questionofsport5-1-300x187.jpg 300w, http://robinstrust.test/wp-content/uploads/2018/03/questionofsport5-1-768x479.jpg 768w" sizes="(max-width: 950px) 100vw, 950px" />
 
 **Think you know football?**
 

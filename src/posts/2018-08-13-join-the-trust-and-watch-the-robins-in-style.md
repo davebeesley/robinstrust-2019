@@ -1,13 +1,10 @@
 ---
 title: Join the Trust – and watch the Robins in Style
 author: Robins Trust
-type: post
-date: 2018-08-13T20:26:03+00:00
+date: '2018-08-13'
 url: /join-the-trust-and-watch-the-robins-in-style/
-categories:
-  - Uncategorized
-
 ---
+
 The Robins Trust is offering a lucky member the chance to live the high life at the home game against Colchester on September 1.
 
 Any existing Trust member will join those signing up by August 20 for a chance to win a hospitality package.
@@ -26,4 +23,4 @@ As well as the chance to win this superb prize, Trust members are eligible for r
 
 [Join the Trust today by clicking here][1].
 
- [1]: https://robinstrust.org/store/
+[1]: https://robinstrust.org/store/

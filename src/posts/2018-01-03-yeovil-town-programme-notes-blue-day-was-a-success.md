@@ -1,14 +1,9 @@
 ---
 title: 'Yeovil Town programme notes: blue day was a success'
-author: admin2438
-type: post
-date: 2018-01-03T10:24:36+00:00
+author: Robins Trust
+date: '2018-01-03'
 url: /yeovil-town-programme-notes-blue-day-was-a-success/
-categories:
-  - Uncategorized
-
 ---
-<img class="aligncenter size-full wp-image-695" src="//robinstrust.org/wp-content/uploads/2018/01/Cheltenham-v-Yeovil-16x9.jpg" alt="" width="1600" height="900" srcset="http://robinstrust.test/wp-content/uploads/2018/01/Cheltenham-v-Yeovil-16x9.jpg 1600w, http://robinstrust.test/wp-content/uploads/2018/01/Cheltenham-v-Yeovil-16x9-300x169.jpg 300w, http://robinstrust.test/wp-content/uploads/2018/01/Cheltenham-v-Yeovil-16x9-768x432.jpg 768w, http://robinstrust.test/wp-content/uploads/2018/01/Cheltenham-v-Yeovil-16x9-1024x576.jpg 1024w" sizes="(max-width: 1600px) 100vw, 1600px" />
 
 **We&#8217;re thrilled with how the blue day went, _wrote Murry Toms in our programme notes for our Boxing Day match against Yeovil Town._**
 
@@ -38,13 +33,11 @@ And it had nothing to do with driving success on the pitch – winning of course
 
 It was all about building a strategy and culture to grow a sustainable future, and Mark&#8217;s team focuses on four key areas to achieve success:
 
-  * Building a meaningful identity
-  * Creating an authentic supporter dialogue
-  * Consistently excellent fan experiences
-  * Valued and motivated workforce
+- Building a meaningful identity
+- Creating an authentic supporter dialogue
+- Consistently excellent fan experiences
+- Valued and motivated workforce
 
 I think we&#8217;re on the right path but there&#8217;s also so much more we can do too. We aim to work into all of these themes in the new year and we want everyone to get involved to have their say.
 
 The board are fully behind what we&#8217;re doing but it&#8217;s up to us to continue to shape the type of club we want here. We&#8217;ve started to prove that by working together we can do that, so I&#8217;m looking forward to see where we can take it in 2018.
-
-<img class="aligncenter size-full wp-image-700" src="//robinstrust.org/wp-content/uploads/2018/01/Screen-Shot-2018-01-03-at-10.47.50.png" alt="" width="597" height="850" srcset="http://robinstrust.test/wp-content/uploads/2018/01/Screen-Shot-2018-01-03-at-10.47.50.png 597w, http://robinstrust.test/wp-content/uploads/2018/01/Screen-Shot-2018-01-03-at-10.47.50-211x300.png 211w" sizes="(max-width: 597px) 100vw, 597px" />

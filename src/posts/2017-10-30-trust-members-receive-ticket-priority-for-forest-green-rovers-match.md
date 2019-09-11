@@ -1,14 +1,12 @@
 ---
 title: Trust members receive ticket priority for Forest Green Rovers match
-author: admin2438
-type: post
-date: 2017-10-30T14:29:14+00:00
-url: /trust-members-receive-ticket-priority-for-forest-green-rovers-match/
-categories:
-  - News
+author: Robins Trust
 
+date: '2017-10-30'
+url: /trust-members-receive-ticket-priority-for-forest-green-rovers-match/
+tags:
+  - News
 ---
-<img class="aligncenter size-full wp-image-622" src="//robinstrust.org/wp-content/uploads/2017/10/Screen-Shot-2017-10-30-at-09.20.10.png" alt="" width="1105" height="566" srcset="http://robinstrust.test/wp-content/uploads/2017/10/Screen-Shot-2017-10-30-at-09.20.10.png 1105w, http://robinstrust.test/wp-content/uploads/2017/10/Screen-Shot-2017-10-30-at-09.20.10-300x154.png 300w, http://robinstrust.test/wp-content/uploads/2017/10/Screen-Shot-2017-10-30-at-09.20.10-768x393.png 768w, http://robinstrust.test/wp-content/uploads/2017/10/Screen-Shot-2017-10-30-at-09.20.10-1024x525.png 1024w" sizes="(max-width: 1105px) 100vw, 1105px" />
 
 **Robins Trust members will receive ticket priority for November&#8217;s historic first Football League Gloucestershire derby.**
 
@@ -35,21 +33,21 @@ You must be signed up as a Robins Trust member by Wednesday, November 8 (11.59pm
 **TICKET WINDOWS FOR GAME AT FOREST GREEN ROVERS **
 
 **Priority 1**
-  
+
 Season ticket holders and Travel Club members (and matchday staff)
-  
+
 Tuesday 31 October to Tuesday 7 November (includes the home game v Maidstone United.)
 
 **Priority 2**
-  
+
 Robins Trust, 500 Club and shareholders
-  
+
 Thursday 9 November to 3pm on Saturday 11 November (i.e. up to kick-off in Luton Town game.)
 
 **Priority 3**
-  
+
 General sale
-  
+
 Saturday 11 November (immediately after the Luton Town game.)
 
- [1]: http://robinstrust.org/store/
+[1]: http://robinstrust.org/store/

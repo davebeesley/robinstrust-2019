@@ -1,19 +1,16 @@
 ---
 title: 'Membership Renewals: Join or Renew now!'
 author: Robins Trust
-type: post
-date: 2018-06-27T13:19:38+00:00
+date: '2018-06-27'
 url: /membership-renewals-join-or-renew-now/
-categories:
-  - Uncategorized
-
 ---
+
 It now costs <span style="color: #ff0000;"><strong>just £5</strong></span> to help shape the future of the Robins Trust and our Football Club.
 
-**<span style="color: #ff0000;">Our agenda is simple:</span>** 
-  
+**<span style="color: #ff0000;">Our agenda is simple:</span>**
+
 **<span style="color: #ff0000;">The more members we have – the louder our voice can be</span>**
-  
+
 Cheltenham Town Football Club is going through a period of change for the first time in more than two decades.
 
 With long-standing chairman Paul Baker standing down at the end of the season after 21 success-filled years, there is not only a new chairman but a new role for the Robins Trust.
@@ -21,7 +18,7 @@ With long-standing chairman Paul Baker standing down at the end of the season af
 The Trust holds the largest number of shares on the current club board, but that’s not enough. We want our mandate to be bigger and bolder than ever before.
 
 Our FED will always call the club to account when needed – putting the fans first.
-  
+
 But our voice is only as loud as the number of members we have in our corner.
 
 And that’s where you come in…
@@ -44,4 +41,4 @@ Your continued support will help the Trust have a stronger, louder voice on club
 
 A strong Trust will make our club stronger.
 
- [1]: http://robinstrust.org/store/
+[1]: http://robinstrust.org/store/

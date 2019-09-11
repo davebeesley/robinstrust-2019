@@ -1,14 +1,12 @@
 ---
 title: 'Grimsby Town notes: Our ambition is to become more representative of our fan base'
-author: admin2438
-type: post
-date: 2017-10-20T10:32:09+00:00
-url: /grimsby-town-notes-our-ambition-is-to-become-more-representative-of-our-fan-base/
-categories:
-  - Uncategorized
+author: Robins Trust
 
+date: '2017-10-20'
+url: /grimsby-town-notes-our-ambition-is-to-become-more-representative-of-our-fan-base/
+tags:
+  - Uncategorized
 ---
-<img class="aligncenter size-full wp-image-591" src="//robinstrust.org/wp-content/uploads/2017/10/Cheltenham-v-Grimsby-16x9.jpg" alt="" width="1600" height="900" srcset="http://robinstrust.test/wp-content/uploads/2017/10/Cheltenham-v-Grimsby-16x9.jpg 1600w, http://robinstrust.test/wp-content/uploads/2017/10/Cheltenham-v-Grimsby-16x9-300x169.jpg 300w, http://robinstrust.test/wp-content/uploads/2017/10/Cheltenham-v-Grimsby-16x9-768x432.jpg 768w, http://robinstrust.test/wp-content/uploads/2017/10/Cheltenham-v-Grimsby-16x9-1024x576.jpg 1024w" sizes="(max-width: 1600px) 100vw, 1600px" />
 
 **Thank you to everyone who came to the AGM on Thursday night, wrote Fan Elected Director Murry Toms on behalf of the Robins Trust in our programme notes for the Grimsby Town match on Tuesday**
 

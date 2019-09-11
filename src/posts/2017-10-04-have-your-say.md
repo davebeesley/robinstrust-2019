@@ -1,16 +1,12 @@
 ---
 title: Have your say on the future of the Robins Trust
-author: admin2438
-type: post
-date: 2017-10-04T20:45:56+00:00
-url: /have-your-say/
-categories:
-  - Uncategorized
+author: Robins Trust
 
+date: '2017-10-04'
+url: /have-your-say/
+tags:
+  - Uncategorized
 ---
-<p style="padding-left: 30px;">
-  <img class="size-full wp-image-564 alignleft" src="//robinstrust.org/wp-content/uploads/2017/10/TRUSTv2.jpg" alt="" width="1600" height="900" srcset="http://robinstrust.test/wp-content/uploads/2017/10/TRUSTv2.jpg 1600w, http://robinstrust.test/wp-content/uploads/2017/10/TRUSTv2-300x169.jpg 300w, http://robinstrust.test/wp-content/uploads/2017/10/TRUSTv2-768x432.jpg 768w, http://robinstrust.test/wp-content/uploads/2017/10/TRUSTv2-1024x576.jpg 1024w" sizes="(max-width: 1600px) 100vw, 1600px" />
-</p>
 
 <p class="p1">
   <strong><span class="s1">A new look, a new board and a new mission for The Robins Trust will be revealed next week.</span></strong>

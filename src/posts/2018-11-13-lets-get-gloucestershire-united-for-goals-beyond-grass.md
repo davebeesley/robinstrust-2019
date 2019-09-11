@@ -1,13 +1,10 @@
 ---
 title: Let’s get ‘Gloucestershire United’ for Goals Beyond Grass
 author: Robins Trust
-type: post
-date: 2018-11-13T13:21:54+00:00
+date: '2018-11-13'
 url: /lets-get-gloucestershire-united-for-goals-beyond-grass/
-categories:
-  - Uncategorized
-
 ---
+
 APPALLED by the shocking vandalism suffered by Goals Beyond Grass, the Robins Trust is aiming to unite Gloucestershire’s sports clubs and meet the £12,000 repair bill.
 
 A little over a week ago, vandals broke into the storeroom used by Goals Beyond Grass and trashed six specialist wheelchairs used by the county’s Powerchair Football team.
@@ -36,4 +33,4 @@ They have also put in the first £500 donation and are calling upon Gloucestersh
 
 Donations can be made at [www.crowdfunder.co.uk/gbg][1]
 
- [1]: http://www.crowdfunder.co.uk/gbg
+[1]: http://www.crowdfunder.co.uk/gbg

@@ -1,13 +1,10 @@
 ---
 title: CTFC Annual Shareholders’ Meeting
 author: Leo Hoenig
-type: post
-date: 2019-04-02T12:50:38+00:00
+date: '2019-04-02'
 url: /ctfc-annual-shareholders-meeting/
-categories:
-  - Uncategorized
-
 ---
+
 The Football Club held its annual shareholders meeting on Wednesday, March 27th. As is traditional, this was followed by a fans’ forum.
 
 The Robins Trust is the fourth largest shareholder in the Football Club, and was represented.

@@ -1,14 +1,12 @@
 ---
 title: 'Our Trust: AGM summary'
-author: admin2438
-type: post
-date: 2017-10-13T12:19:56+00:00
-url: /our-trust-agm-summary/
-categories:
-  - Events
+author: Robins Trust
 
+date: '2017-10-13'
+url: /our-trust-agm-summary/
+tags:
+  - Events
 ---
-<img class="aligncenter size-full wp-image-577" src="//robinstrust.org/wp-content/uploads/2017/10/openday.png" alt="" width="1600" height="900" srcset="http://robinstrust.test/wp-content/uploads/2017/10/openday.png 1600w, http://robinstrust.test/wp-content/uploads/2017/10/openday-300x169.png 300w, http://robinstrust.test/wp-content/uploads/2017/10/openday-768x432.png 768w, http://robinstrust.test/wp-content/uploads/2017/10/openday-1024x576.png 1024w" sizes="(max-width: 1600px) 100vw, 1600px" />
 
 **The Robins Trust outlined its ambitious plans to reach 1,000 members at Thursday night’s AGM at Whaddon Road.**
 
@@ -30,7 +28,7 @@ With a journalist (James Young), web developer (Dave Beesley), marketing (Jack O
 
 **New logo**
 
-<img class="aligncenter size-full wp-image-564" src="//robinstrust.org/wp-content/uploads/2017/10/TRUSTv2.jpg" alt="" width="1600" height="900" srcset="http://robinstrust.test/wp-content/uploads/2017/10/TRUSTv2.jpg 1600w, http://robinstrust.test/wp-content/uploads/2017/10/TRUSTv2-300x169.jpg 300w, http://robinstrust.test/wp-content/uploads/2017/10/TRUSTv2-768x432.jpg 768w, http://robinstrust.test/wp-content/uploads/2017/10/TRUSTv2-1024x576.jpg 1024w" sizes="(max-width: 1600px) 100vw, 1600px" />
+<img src="//robinstrust.org/uploads/TRUSTv2.jpg" alt="" width="1600" height="900" />
 
 One element of the rebrand was the decision to create a new logo, which was decided by the membership. Five options we presented a week previously, and by the end of the evening it was announced that 42% of the responses voted for option A. From today onwards, that is our new logo.
 
@@ -48,15 +46,11 @@ Dave Jennings has had a number of conversations with local businesses to offer d
 
 **Look back at the summer**
 
-<img class="aligncenter size-full wp-image-579" src="//robinstrust.org/wp-content/uploads/2017/10/ladies3.png" alt="" width="1600" height="900" srcset="http://robinstrust.test/wp-content/uploads/2017/10/ladies3.png 1600w, http://robinstrust.test/wp-content/uploads/2017/10/ladies3-300x169.png 300w, http://robinstrust.test/wp-content/uploads/2017/10/ladies3-768x432.png 768w, http://robinstrust.test/wp-content/uploads/2017/10/ladies3-1024x576.png 1024w" sizes="(max-width: 1600px) 100vw, 1600px" />
-
 A short overview of activity during the summer followed. The Trust organised this year’s hugely successful Open Day, enabled supporters to take part in the away shirt launch with players from across the club and played a major role in bringing the mens and ladies clubs closer together.
 
 The Robins Trust Speedy Skips Challenge has proved successful, and we invited people who wanted to take part in the half-time initiative to get in touch. Finally, we talked about the popular ‘Referees’ evening and how this is the type of event we want to create more of in the future.
 
 **New board elected**
-
-<img class="aligncenter size-full wp-image-578" src="//robinstrust.org/wp-content/uploads/2017/10/Screen-Shot-2017-10-13-at-13.14.45.png" alt="" width="1214" height="675" srcset="http://robinstrust.test/wp-content/uploads/2017/10/Screen-Shot-2017-10-13-at-13.14.45.png 1214w, http://robinstrust.test/wp-content/uploads/2017/10/Screen-Shot-2017-10-13-at-13.14.45-300x167.png 300w, http://robinstrust.test/wp-content/uploads/2017/10/Screen-Shot-2017-10-13-at-13.14.45-768x427.png 768w, http://robinstrust.test/wp-content/uploads/2017/10/Screen-Shot-2017-10-13-at-13.14.45-1024x569.png 1024w" sizes="(max-width: 1214px) 100vw, 1214px" />
 
 Then the new look board of 13 people (above) was introduced to the membership and subsequently voted in, acknowledging the notable effort of the previous incumbents in establishing the organisation and representation on the board of the football club. We hope to build on their legacy to take the Trust to the next level and that they will play a part in that.
 
@@ -70,5 +64,5 @@ In short we want to improve the membership offering and make it easier for suppo
 
 **[Download our AGM presentation][2]**
 
- [1]: http://robinstrust.org/rise-represent-influence-serve-encourage/
- [2]: http://robinstrust.org/wp-content/uploads/2017/10/Robins-Trust-AGM-3.pdf
+[1]: http://robinstrust.org/rise-represent-influence-serve-encourage/
+[2]: http://robinstrust.org/wp-content/uploads/2017/10/Robins-Trust-AGM-3.pdf

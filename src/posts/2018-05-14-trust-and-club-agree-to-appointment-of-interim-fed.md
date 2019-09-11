@@ -1,13 +1,10 @@
 ---
 title: Trust and Club agree to appointment of interim FED
 author: Robins Trust
-type: post
-date: 2018-05-14T09:00:46+00:00
+date: '2018-05-14'
 url: /trust-and-club-agree-to-appointment-of-interim-fed/
-categories:
-  - Uncategorized
-
 ---
+
 The Robins Trust is pleased to announce the appointment of Dave Beesley as interim Fan Elected Director.
 
 We are also delighted to confirm that after constructive discussions with members of the Cheltenham Town board, Dave will be able to take up his post immediately.

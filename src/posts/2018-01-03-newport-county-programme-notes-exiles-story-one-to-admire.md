@@ -1,15 +1,10 @@
 ---
 title: 'Newport County programme notes: Exiles story one to admire'
-author: admin2438
-type: post
-date: 2018-01-03T10:47:41+00:00
+author: Robins Trust
+date: '2018-01-03'
 url: /newport-county-programme-notes-exiles-story-one-to-admire/
-categories:
-  - Uncategorized
-
 ---
-<img class="aligncenter size-full wp-image-577" src="//robinstrust.org/wp-content/uploads/2017/10/openday.png" alt="" width="1600" height="900" srcset="http://robinstrust.test/wp-content/uploads/2017/10/openday.png 1600w, http://robinstrust.test/wp-content/uploads/2017/10/openday-300x169.png 300w, http://robinstrust.test/wp-content/uploads/2017/10/openday-768x432.png 768w, http://robinstrust.test/wp-content/uploads/2017/10/openday-1024x576.png 1024w" sizes="(max-width: 1600px) 100vw, 1600px" />
-  
+
 **When I arrived at the Weston Homes Community Stadium for the match against Colchester United on January 2, I could never have imagined how the next 12 months would pan out, _wrote Murry Toms in our programme notes for the match against Newport County._**
 
 It&#8217;s a year I&#8217;ll look back on with a lot of pride, as should today&#8217;s visitors Newport County.
@@ -43,5 +38,3 @@ None more so than seeing the legend &#8216;Churchy&#8217; lead out the players t
 For me it perfectly encapsulated the year, seeing the players and supporters coming closer together to really celebrate what it is to be involved with this club.
 
 There&#8217;s plenty more to come but for now I think we can enjoy a well deserved pint.
-
-<img class="aligncenter size-full wp-image-698" src="//robinstrust.org/wp-content/uploads/2018/01/Screen-Shot-2018-01-03-at-10.46.06.png" alt="" width="595" height="848" srcset="http://robinstrust.test/wp-content/uploads/2018/01/Screen-Shot-2018-01-03-at-10.46.06.png 595w, http://robinstrust.test/wp-content/uploads/2018/01/Screen-Shot-2018-01-03-at-10.46.06-210x300.png 210w" sizes="(max-width: 595px) 100vw, 595px" />

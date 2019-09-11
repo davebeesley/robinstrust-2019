@@ -1,19 +1,16 @@
 ---
 title: Robins Trust statement and clarification on recent events
 author: Robins Trust
-type: post
-date: 2018-05-10T13:57:48+00:00
+date: '2018-05-10'
 url: /robins-trust-statement-and-clarification-on-recent-events/
-categories:
-  - Uncategorized
-
 ---
+
 Over the last week the Trust’s board has been in a constant dialogue with representatives of the Football Club board.
 
 Initially, those discussions were about replacing Murry Toms as Fan Elected Director at the earliest opportunity to ensure that there was constant fan representation on the Football Club board.
 
 Because of Paul Baker’s decision to stand down that dialogue had to change tack – and unfortunately the Trust board and Football Club board disagree on a number of matters.
-  
+
 It was always our intention to keep those discussions and disagreements confidential until a meeting was agreed between the two parties.
 
 Earlier today, the Trust received an outline of the latest statement the Club would be making.
@@ -28,11 +25,11 @@ The role of Fan Elected Director on the Cheltenham Town Football Club Board came
 
 At that meeting, three separate resolutions were passed, the first two of which were in relation to the investment of the estate of Bryan Jacob.
 
-  1. A clear majority of votes of Trust members voted that the proceeds of the estate would be invested in Cheltenham Town FC.
-  2. A clear majority of votes of Trust members voted that £200,000 would be invested immediately in the Football Club.
+1. A clear majority of votes of Trust members voted that the proceeds of the estate would be invested in Cheltenham Town FC.
+2. A clear majority of votes of Trust members voted that £200,000 would be invested immediately in the Football Club.
 
 Both of those votes, held in that order, ensured that a Fan Elected Director would then serve as a member of the Football Club board.
-  
+
 A subsequent vote held on that night saw Clive Gowing appointed to that role.
 
 In its records, the Trust has correspondence with the board prior to April 16 where the position of FED was offered, regardless of who would serve in the role.
@@ -60,7 +57,7 @@ This was on advice from Supporters Direct and came after their experiences of de
 One of these policies was the Board Membership and Conduct Policy where explicit rules are in place for such an eventuality as has happened with the FED in recent weeks.
 
 **Rule 7.3 of that policy states:**
-  
+
 Vacancies arising amongst the Society Board Members elected by the members  will be dealt with as follows.
 
 <p style="padding-left: 30px;">

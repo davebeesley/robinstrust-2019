@@ -1,14 +1,9 @@
 ---
 title: 'Cambridge United programme notes: Football has the power to do so much good'
-author: admin2438
-type: post
-date: 2017-11-22T12:40:31+00:00
+author: Robins Trust
+date: '2017-11-22'
 url: /cambridge-united-programme-notes-football-has-the-power-to-do-so-much-good/
-categories:
-  - Uncategorized
-
 ---
-<img class="aligncenter size-full wp-image-661" src="//robinstrust.org/wp-content/uploads/2017/11/Cheltenham-v-Cambridge-16x9.jpg" alt="" width="1600" height="900" srcset="http://robinstrust.test/wp-content/uploads/2017/11/Cheltenham-v-Cambridge-16x9.jpg 1600w, http://robinstrust.test/wp-content/uploads/2017/11/Cheltenham-v-Cambridge-16x9-300x169.jpg 300w, http://robinstrust.test/wp-content/uploads/2017/11/Cheltenham-v-Cambridge-16x9-768x432.jpg 768w, http://robinstrust.test/wp-content/uploads/2017/11/Cheltenham-v-Cambridge-16x9-1024x576.jpg 1024w" sizes="(max-width: 1600px) 100vw, 1600px" />
 
 **Bill Shankly once said that football was more important than life or death, _wrote Murry Toms in our programme notes for the Cambridge United match._**
 
@@ -28,8 +23,6 @@ It&#8217;s what communities are all about and it&#8217;s what Cheltenham Town Fo
   </p>
 </blockquote>
 
-
-
 November also is Lung Cancer Awareness Month so Monday&#8217;s announcement is timely. We will be sharing stories and other articles leading up to the Crewe Alexandra match so please read them, and share away. If we help one person through this initiative, then it&#8217;ll be worth it.
 
 On the day the Trust are planning to host an &#8216;fans fest&#8217; with DJ Shippers, building the atmosphere with good music ahead of the game. Afterwards we&#8217;ll be auctioning one of the one-off match shirts for the charity and our aim is to bring everyone together for the cause.
@@ -44,7 +37,5 @@ Saturday promises to be a memorable day as a thousand Cheltenham fans make the t
 
 Gloucestershire is red (and blue on December 9).
 
-<img class="aligncenter size-full wp-image-658" src="//robinstrust.org/wp-content/uploads/2017/11/txt_donate.jpg" alt="" width="1600" height="900" srcset="http://robinstrust.test/wp-content/uploads/2017/11/txt_donate.jpg 1600w, http://robinstrust.test/wp-content/uploads/2017/11/txt_donate-300x169.jpg 300w, http://robinstrust.test/wp-content/uploads/2017/11/txt_donate-768x432.jpg 768w, http://robinstrust.test/wp-content/uploads/2017/11/txt_donate-1024x576.jpg 1024w" sizes="(max-width: 1600px) 100vw, 1600px" />
-
- [1]: http://robinstrust.org/blue-alexandra-trust-turn-the-robins-blue-for-one-day-only/
- [2]: https://www.blf.org.uk
+[1]: http://robinstrust.org/blue-alexandra-trust-turn-the-robins-blue-for-one-day-only/
+[2]: https://www.blf.org.uk

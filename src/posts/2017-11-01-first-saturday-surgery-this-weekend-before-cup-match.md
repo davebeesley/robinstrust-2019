@@ -1,16 +1,13 @@
 ---
 title: First ‘Saturday Surgery’ this weekend before cup match
-author: admin2438
-type: post
-date: 2017-11-01T08:46:16+00:00
+author: Robins Trust
+date: '2017-11-01'
 url: /first-saturday-surgery-this-weekend-before-cup-match/
-categories:
+tags:
   - News
-
 ---
-<img class="aligncenter size-full wp-image-633" src="//robinstrust.org/wp-content/uploads/2017/11/Screen-Shot-2017-11-01-at-08.35.31.png" alt="" width="692" height="430" srcset="http://robinstrust.test/wp-content/uploads/2017/11/Screen-Shot-2017-11-01-at-08.35.31.png 692w, http://robinstrust.test/wp-content/uploads/2017/11/Screen-Shot-2017-11-01-at-08.35.31-300x186.png 300w" sizes="(max-width: 692px) 100vw, 692px" />
-  
-**The Robins Trust will be holding a regular &#8216;Saturday Surgery&#8217; before each home match.** 
+
+**The Robins Trust will be holding a regular &#8216;Saturday Surgery&#8217; before each home match.**
 
 The new idea has been created to allow supporters  to approach members of the organisation to discuss any Club or Trust related issues that they may have, enabling us to represent them.
 

@@ -1,13 +1,10 @@
 ---
 title: Elections for the role of Fan Elected Director
 author: Robins Trust
-type: post
-date: 2018-08-23T17:29:30+00:00
+date: '2018-08-23'
 url: /elections-for-the-role-of-fan-elected-director/
-categories:
-  - Uncategorized
-
 ---
+
 <span style="font-weight: 400;">The election will follow the following process:</span>
 
 <li style="font-weight: 400;">
@@ -48,9 +45,9 @@ categories:
 
 &nbsp;
 
-**Click [HERE][1]**** for a Fan Elected Director Nomination Form.**
+**Click [HERE][1]\*\*** for a Fan Elected Director Nomination Form.\*\*
 
 **All forms, and corresponding confirmation messages from proposers must be sent to** [**elections@robinstrust.org**][2] **by the relevant dates listed above.**
 
- [1]: https://robinstrust.org/wp-content/uploads/2018/08/Trust-Elections-2018-FED-Nomination-form.pdf
- [2]: mailto:elections@robinstrust.org
+[1]: https://robinstrust.org/wp-content/uploads/2018/08/Trust-Elections-2018-FED-Nomination-form.pdf
+[2]: mailto:elections@robinstrust.org

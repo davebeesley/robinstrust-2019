@@ -1,13 +1,10 @@
 ---
 title: Robins Trust invest further in the long term success of Cheltenham Town
 author: Robins Trust
-type: post
-date: 2019-02-20T20:54:13+00:00
+date: '2019-02-20'
 url: /robins-trust-invest-further-in-the-long-term-success-of-cheltenham-town/
-categories:
-  - Uncategorized
-
 ---
+
 A new £8,000 investment has strengthened the Robins Trust’s stake in Cheltenham Town Football Club.
 
 The latest investment means the Trust now holds close to 190,000 shares and holds the fourth largest stake in the club.

@@ -1,14 +1,14 @@
 ---
 title: 'Lincoln City programme notes: Meet the new Robins Trust board!'
-author: admin2438
-type: post
-date: 2017-10-25T19:29:12+00:00
-url: /lincoln-city-programme-notes-meet-the-new-robins-trust-board/
-categories:
-  - Uncategorized
+author: Robins Trust
 
+date: '2017-10-25'
+url: /lincoln-city-programme-notes-meet-the-new-robins-trust-board/
+tags:
+  - Uncategorized
 ---
-<img class="aligncenter size-full wp-image-598" src="//robinstrust.org/wp-content/uploads/2013/09/Screen-Shot-2017-10-18-at-18.18.56.png" alt="" width="843" height="327" srcset="http://robinstrust.test/wp-content/uploads/2013/09/Screen-Shot-2017-10-18-at-18.18.56.png 843w, http://robinstrust.test/wp-content/uploads/2013/09/Screen-Shot-2017-10-18-at-18.18.56-300x116.png 300w, http://robinstrust.test/wp-content/uploads/2013/09/Screen-Shot-2017-10-18-at-18.18.56-768x298.png 768w" sizes="(max-width: 843px) 100vw, 843px" />**During the Relaunch of the Robins Trust and the election of a New Board we have been looking at ways in which we can add value to all our members, _wrote Dave Jennings on behalf of the Trust in our notes for the match against Lincoln City._**
+
+**During the Relaunch of the Robins Trust and the election of a New Board we have been looking at ways in which we can add value to all our members, _wrote Dave Jennings on behalf of the Trust in our notes for the match against Lincoln City._**
 
 We have been discussing with local businesses the opportunity they have by becoming a Robins Trust Partner, offering preferential deals, offers and discounts to Trust Members.
 
