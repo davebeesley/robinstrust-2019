@@ -4,12 +4,12 @@ title: Richard Allsopp
 role: Events Coordinator
 metaTitle: Richard Allsopp | Events Coordinator | Robins Trust
 metaDesc: Richard Allsopp is the Events Coordinator on the Robins Trust Board
-socialImage: /images/placeholder-profile_3.png
-date: 2019-06-22T15:32:29.116Z
+socialImage: /images/img_20190728_143229.jpg
 ---
+I’ve been a member of the Trust board since 2017 and been volunteering for the Trust since 2014. My main role for the Trust is to organise and promote the 1 to 100 Half-Time Raffle Draw. On matchdays you will see me in bar areas and out in the main Car Park (in all weathers!), hoping to persuade you to purchase a raffle ticket (or 5!). I enjoy this role, as it allows me to engage with our diverse fanbase throughout the season and also helps promotes the Trust in a way that supporters can easily participate.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis et malesuada eros, quis venenatis libero. Suspendisse cursus leo sit amet augue pretium fringilla. Suspendisse potenti. Nunc nec efficitur ipsum. Quisque erat nisl, fringilla eget quam et, ullamcorper porttitor erat.
+Away from the Trust, I work as an English & Maths Tutor, delivering 1 to 1 sessions to young people, focusing on those who aren’t able to access mainstream education providers, for a wide variety of reasons. My personal achievement that I’m most proud of is achieving an Honours Degree in IT/Multimedia from the University of Gloucestershire. In my spare time, I enjoying socialising with family and friends: cinema, concerts, eating out, festivals & shows.
 
-Phasellus sagittis bibendum rutrum. Pellentesque nec lacus id tellus placerat accumsan. Morbi et lobortis dui. Ut eleifend euismod tortor, varius consequat nisi vulputate eget. Sed imperdiet tincidunt ex egestas malesuada. Etiam auctor felis ac libero lacinia cursus. Quisque lobortis, velit sit amet ornare aliquet, purus purus varius lectus, quis ultricies erat lacus interdum mauris.
+I look forward to meeting all existing (and new!) supporters throughout the coming season. Please feel free to stop & chat to me about the role of the Trust within CTFC and how you can volunteer if you have some free time.
 
-Fusce sed viverra mauris. Suspendisse potenti. Cras accumsan convallis tortor a egestas. Curabitur sem tortor.
+COYR!!
