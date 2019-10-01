@@ -7,13 +7,13 @@ tags:
   - fans
   - 1887redarmy
 ---
-The Robins Trust has noted the widespread comments made by fans regarding the decision to move the 1887 Red Army from Block 7 of the Colin Farmer for the upcoming fixtures against Forest Green and Newport County.
+The Robins Trust has noted the widespread comments made by fans regarding the decision to move the 1887RedArmy from Block 7 of the Colin Farmer Stand for the upcoming fixtures against Forest Green and Newport County.
 
-While we have no power or jurisdiction over decisions that are made by the CTFC safety team and police, and are aware of the agreement made between the Club's safety team and 1887 Red Army prior to the season, we believe there are issues to be looked at.
+While we have no power or jurisdiction over decisions that are made by the CTFC safety team and police, and are aware of the agreement made between the Club's safety team and 1887RedArmy prior to the season, we believe there are issues to be looked at.
 
-First, it cannot be argued that atmosphere at home games has improved markedly since the 1887 Red Army moved and believe that decision to move for big games needs to be looked at with greater flexibility in future.
+First, it cannot be argued that atmosphere at home games has improved markedly since the 1887RedArmy moved and believe that decision to move for big games needs to be looked at with greater flexibility in future.
 
-Second, we believe the use of footage of the 1887 Red Army in promotional videos of the FGR fixture, despite knowing they would be moved for the fixture was badly thought out. Fans Groups are not convenient marketing tools one minute, and inconvenient security issues the next.
+Second, we believe the use of footage of the 1887 Red Army in promotional videos of the FGR fixture, despite knowing they would be moved for this game was badly thought out. Fans Groups are not convenient marketing tools one minute, and inconvenient security issues the next.
 
 We would encourage Cheltenham Town FC to review their decision to move the 1887RedArmy in these instances. And also encourage more flexibility and proactive engagement on these decisions in future.
 
