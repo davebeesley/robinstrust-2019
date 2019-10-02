@@ -24,3 +24,5 @@ Good Luck and Get Game Ready!
 ---
 
 For more information about Carabao, please visit: [http://www.carabaoenergy.co.uk](http://www.carabaoenergy.co.uk) , [@CarabaoUK](https://twitter.com/CarabaoUK)
+
+[Terms and Conditions apply](/competition/terms.html)
