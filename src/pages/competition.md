@@ -1,13 +1,13 @@
 ---
 layout: layouts/page.njk
-title: Competition
+title: Win Tickets to CTFC v Newport County
 permalink: competition/index.html
-metaTitle: Competition
-metaDesc: Competition
+metaTitle: Win Tickets to CTFC v Newport County
+metaDesc: Win a pair of tickets to Cheltenham Town v Newport County on Saturday 12th October courtesy of Carabao Energy Drink
 socialImage: /images/cheltenhamtown.jpg
 ---
 
-## Win a pair of tickets to Cheltenham Town v Newport County on Saturday 12th October courtesy of Carabao Energy Drink
+### Win a pair of tickets to Cheltenham Town v Newport County on Saturday 12th October courtesy of Carabao Energy Drink
 
 Carabao Energy Drink has teamed up with Robins Trust to give ten lucky Robins fans the chance to win a pair of tickets to Cheltenham Town v Newport County on Saturday 12th October
 
