@@ -1,5 +1,5 @@
 ---
-layout: layouts/page.njk
+layout: layouts/competition.njk
 title: Win Tickets to CTFC v Newport County
 permalink: competition/index.html
 metaTitle: Win Tickets to CTFC v Newport County
