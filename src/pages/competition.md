@@ -17,7 +17,7 @@ Carabao Energy Drinks are great-tasting, fruity low sugar and no sugar drinks th
 
 Carabao is currently stocked in Asda, BP, Morrisons, Sainsbury’s, Spar, WHSmith, as well as a significant number of independent retailers.
 
-_To be in with a chance of winning this amazing prize_, simply answer the following question: Which former Premier League striker is Cheltenham's current player of the year?
+_To be in with a chance of winning this amazing prize_, simply answer the following question: Which former Premier League striker is Cheltenham's current player of the year? (using the form below)
 
 Good Luck and Get Game Ready!
 
