@@ -3,12 +3,15 @@
 
 {# Intro content #}
 {% set introHeading = title %}
-{% set introSummary %}{{ content | safe }}{% endset %}
 
 {% block content %}
   <main id="main-content" tabindex="-1">
-    {% include "partials/components/intro.njk" %}
-    {{ content | safe }}
+    <article class="[ post ] [ h-entry ]">
+        {% include "partials/components/intro.njk" %}
+        <div class="[ post__body ] [ inner-wrapper ] [ pad-top-900 pad-bottom-900 text-500 ] [ sf-flow ] [ e-content ]">
+            {{ content | safe }}
+        </div>
+    </article>
     <section class="[ pad-top-700 gap-bottom-900 ]">
       <div class="[ inner-wrapper ] [ sf-flow ]">
         <div class="boilerform">
