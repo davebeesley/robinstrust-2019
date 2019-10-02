@@ -19,6 +19,12 @@
       "button": false
     },
     {
+      "text": "Competition",
+      "url": "/competition",
+      "external": false,
+      "button": false
+    },
+    {
       "text": "News",
       "url": "/archive",
       "external": false,
