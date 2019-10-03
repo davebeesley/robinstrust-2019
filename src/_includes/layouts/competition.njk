@@ -1,17 +1,21 @@
 {% extends 'layouts/base.njk' %}
-{% set pageType = 'Contact' %}
+{% set pageType = 'Competition' %}
 
 {# Intro content #}
 {% set introHeading = title %}
-{% set introSummary %}{{ content | safe }}{% endset %}
 
 {% block content %}
   <main id="main-content" tabindex="-1">
-    {% include "partials/components/intro.njk" %}
+    <article class="[ post ] [ h-entry ]">
+        {% include "partials/components/intro.njk" %}
+        <div class="[ post__body ] [ inner-wrapper ] [ pad-top-900 pad-bottom-900 text-500 ] [ sf-flow ] [ e-content ]">
+            {{ content | safe }}
+        </div>
+    </article>
     <section class="[ pad-top-700 gap-bottom-900 ]">
       <div class="[ inner-wrapper ] [ sf-flow ]">
         <div class="boilerform">
-          <form name="contact" netlify>
+          <form name="competition-newport" netlify>
             <fieldset class="c-form">
               <div class="c-form__row">
                 <label class="c-label">Name</label>
@@ -22,8 +26,16 @@
                 <input type="email" name="email" autocapitalize="none" autocorrect="off" class="c-input-field" required />
               </div>
               <div class="c-form__row">
-                <label class="c-label">Message</label>
-                <textarea name="message" class="c-input-field c-input-field--multiline" autocapitalize="none" autocorrect="off" required></textarea>
+                <label class="c-label">Which former Premier League striker is Cheltenham's current player of the year?</label>
+                <div class="c-select-field">
+                    <select name="" id="" class="c-select-field__menu">
+                        <option>Select an answer</option>
+                        <option value="bent">Darren Bent</option>
+                        <option value="varney">Luke Varney</option>
+                        <option value="defoe">Jermain Defoe</option>
+                    </select>
+                    <span class="c-select-field__decor" aria-hidden="true" role="presentation">&dtrif;</span>
+                </div>
               </div>
               <div class="c-form__row">
                 <button type="submit" class="c-button">Send</button>
