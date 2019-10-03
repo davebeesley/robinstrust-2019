@@ -10,40 +10,8 @@
         {% include "partials/components/intro.njk" %}
         <div class="[ post__body ] [ inner-wrapper ] [ pad-top-900 pad-bottom-900 text-500 ] [ sf-flow ] [ e-content ]">
             {{ content | safe }}
+            <p style="color: red;">The competition is now closed. We will let the winners know ASAP</p>
         </div>
     </article>
-    <section class="[ pad-top-700 gap-bottom-900 ]">
-      <div class="[ inner-wrapper ] [ sf-flow ]">
-        <div class="boilerform">
-          <form name="competition-newport" action="/competition/success" method="POST" data-netlify="true">
-            <fieldset class="c-form">
-              <div class="c-form__row">
-                <label class="c-label">Name</label>
-                <input type="text" name="name" class="c-input-field" required />
-              </div>
-              <div class="c-form__row">
-                <label class="c-label">Email</label>
-                <input type="email" name="email" class="c-input-field" required />
-              </div>
-              <div class="c-form__row">
-                <label class="c-label">Which former Premier League striker is Cheltenham's current player of the year?</label>
-                <div class="c-select-field">
-                    <select name="answer" id="answer" class="c-select-field__menu">
-                        <option>Select an answer</option>
-                        <option value="Darren Bent">Darren Bent</option>
-                        <option value="Luke Varney">Luke Varney</option>
-                        <option value="Jermain Defoe">Jermain Defoe</option>
-                    </select>
-                    <span class="c-select-field__decor" aria-hidden="true" role="presentation">&dtrif;</span>
-                </div>
-              </div>
-              <div class="c-form__row">
-                <button type="submit" class="c-button">Send</button>
-              </div>
-            </fieldset>
-          </form>
-        </div>
-      </div>
-    </section>
   </main>
 {% endblock %}
