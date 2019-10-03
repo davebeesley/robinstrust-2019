@@ -11,7 +11,7 @@ socialImage: /images/cheltenhamtown.jpg
 
 DATE: Thursday, November 28th, 2019 at the Jonny-Rocks Stadium. TIME: 7.30pm start.
 The Robins Trust Board is pleased to confirm that our Annual General Meeting, elections to the Trust
-Board and Fans Forumwill take place on November 28th .
+Board and Fans Forum will take place on November 28th .
 Nominations are now open for election to the Trust board with details of how to submit
 your nomination below.
 As per the 2017 Trust AGM, it was agreed to align the board elections with the Trust AGM.
