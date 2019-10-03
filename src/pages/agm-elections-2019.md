@@ -27,12 +27,12 @@ The election will follow the following process:
 5. As per Trust rules, anyone standing for election shall be a fully paid member of the society and be nominated by two other full society members.
 6. Nominees will also be asked to supply a statement supporting their nomination as per rule 6 of the Trust Election Policy.
 7. As per rule 5 of the Trust Election Policy, it is the candidate’s responsibility to ensure their candidacy is valid as per the terms above.
-8. The timetable for the 2019 election will be:
-   i. Thursday 3rd October 2019: Notice of AGM and election circulated to all members.
-   ii. Thursday 31st October 2019: Deadline for receipt of nominations and candidate statements.
-   iii. In the week beginning 4th November 2019 an announcement will be made as to whether a ballot will be necessary. A ballot will be necessary if the number of nominations EXCEEDS 11. If so, the following will happen:
-   iv. Thursday 7th November 2019: Candidate statements for all candidates seeking election will be published on the Trust website.
-   v. Thursday 14th November 2019: voting forms and candidate statements and means for proxy or email voting, will be sent to Trust members.
+8. The timetable for the 2019 election will be:<br>
+   i. Thursday 3rd October 2019: Notice of AGM and election circulated to all members.<br>
+   ii. Thursday 31st October 2019: Deadline for receipt of nominations and candidate statements.<br>
+   iii. In the week beginning 4th November 2019 an announcement will be made as to whether a ballot will be necessary. A ballot will be necessary if the number of nominations EXCEEDS 11. If so, the following will happen:<br>
+   iv. Thursday 7th November 2019: Candidate statements for all candidates seeking election will be published on the Trust website.<br>
+   v. Thursday 14th November 2019: voting forms and candidate statements and means for proxy or email voting, will be sent to Trust members.<br>
    vi. Thursday 28th November 2019: Election count and announcement will take placed at the Robins Trust AGM.
 9. In the event that the number of nominations is equal to or fewer than available positions on the Board (11) or less, those nominees will progress through to the AGM for ratification by members.
 10. The new Robins Trust board will meet for a general board meeting within ONE month of the AGM.
