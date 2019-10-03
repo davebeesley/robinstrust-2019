@@ -37,5 +37,5 @@ The election will follow the following process:
 9. In the event that the number of nominations is equal to or fewer than available positions on the Board (11) or less, those nominees will progress through to the AGM for ratification by members.
 10. The new Robins Trust board will meet for a general board meeting within ONE month of the AGM.
 
-Click [HERE](trust-elections-2019-board-nomination-form.docx) for a Robins Trust Board Member nomination form
+Click [HERE](/images/trust-elections-2019-board-nomination-form.docx) for a Robins Trust Board Member nomination form
 All forms, and corresponding confirmation messages from proposers must be sent to info@robinstrust.org by the relevant dates listed above.
