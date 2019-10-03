@@ -38,4 +38,4 @@ The election will follow the following process:
 10. The new Robins Trust board will meet for a general board meeting within ONE month of the AGM.
 
 Click [HERE](/images/trust-elections-2019-board-nomination-form.docx) for a Robins Trust Board Member nomination form
-All forms, and corresponding confirmation messages from proposers must be sent to info@robinstrust.org by the relevant dates listed above.
+All forms, and corresponding confirmation messages from proposers must be sent to [elections@robinstrust.org](mailto:elections@robinstrust.org) by the relevant dates listed above.
