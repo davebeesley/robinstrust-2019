@@ -9,11 +9,11 @@ socialImage: /images/cheltenhamtown.jpg
 
 1. The prize is for ten people to win a pair of tickets for Cheltenham Town v Newport County on Saturday 12th October
 
-2. The competition is open from 3rd October 2019 and closes on 5th October 2019
+2. The competition is open from 9am on 3rd October 2019 and closes at 9pm on 3rd October 2019
 
 3. The competition is free to enter via Robins Trust entry route advertised in the competition copy
 
-4. Carabao will inform winners within 24 hours after the competition has closed. Winners must confirm no later than [insert date] and provide their addresss
+4. Carabao will inform winners within 24 hours after the competition has closed. Winners must confirm no later than 9pm on 4th October 2019 and provide their addresss
 
 5. The prize is for ten pairs of home team tickets and eligible supporters of that team only. Away team tickets and tickets for supporters of the away team are not available. Tickets are located in the home supporter stands.
 
