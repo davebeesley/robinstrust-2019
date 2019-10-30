@@ -2,8 +2,12 @@
 layout: layouts/page.njk
 title: Elections & Annual General Meeting
 permalink: agm-elections/index.html
-metaTitle: Robins Trust Board Elections - Annual General Meeting - Fans Forum - 28 October 2019
-metaDesc: Win a pair of tickets to Cheltenham Town v Newport County on Saturday 12th October courtesy of Carabao Energy Drink
+metaTitle: >-
+  Robins Trust Board Elections - Annual General Meeting - Fans Forum - 28
+  October 2019
+metaDesc: >-
+  The Robins Trust Board is pleased to confirm that our Annual General Meeting,
+  elections to the Trust Board and Fans Forum will take place on November 28th
 socialImage: /images/cheltenhamtown.jpg
 ---
 
