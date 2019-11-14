@@ -7,12 +7,12 @@ metaDesc: The Annual General Meeting of Cheltenham Town Supporters Society Limit
 socialImage: /images/cheltenhamtown.jpg
 ---
 
-# NOTICE OF ANNUAL GENERAL MEETING OF THE SOCIETY
+## NOTICE OF ANNUAL GENERAL MEETING OF THE SOCIETY
 
 _Thursday, November 28 (7.30pm)_
 _Jonny-Rocks Stadium, Whaddon Road, Cheltenham._
 
-## AGENDA
+### AGENDA
 
 1. To approve the accounts of the society for the year ending May 31, 2019
 2. Chairman’s report
