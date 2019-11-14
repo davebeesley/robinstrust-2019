@@ -2,9 +2,6 @@
 layout: layouts/post.njk
 title: The Trust needs you, if it is to survive
 date: 2019-11-14T09:33:00.762Z
-tags:
-  - statements
-  - fans
 ---
 
 The annual meeting of the Robins Trust will take place on Thursday, November 28 where members will be told that the Trust is in danger of dying.
