@@ -1,7 +1,7 @@
 ---
 layout: layouts/page.njk
 title: Thank You
-permalink: about/index.html
+permalink: contact/thank-you.html
 metaTitle: Contact - Thank You
 metaDesc: Thank You
 ---
