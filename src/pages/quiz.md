@@ -33,7 +33,9 @@ The prize on offer will be the knowledge that you are the Brain of CTFC, for a w
 
 You will need a laptop or device that is capable of connecting to the internet and the app Zoom (www.zoom.us) and a working e-mail address to submit your answers to.
 
-To register your interest, and to ensure you get the information sent about how to enter and join the Zoom room, e-mail [quizmaster@robinstrust.org](mailto:quizmaster@robinstrust.org)
+To register your interest, and to ensure you get the information sent about how to enter and join the Zoom room, [enter here]([mailto:quizmaster@robinstrust.org](https://bit.ly/May2Quiz))
+
+On the day, answer sheets will need to be submitted to [quizmaster@robinstrust.org](mailto:quizmaster@robinstrust.org)
 
 Registrations will close at around 2pm on Saturday afternoon – and the invitation will be sent at around 2.45pm, so we can all have a pre-match chat.
 
