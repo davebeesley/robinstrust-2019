@@ -7,6 +7,11 @@
   --color-selection-text: #{get-color('dark')};
   --color-selection-bg: #{get-color('light')};
 
+  &__affiliate-name {
+    background: var(--color-bg);
+      padding: 0.5em;
+  }
+
   &__affiliate-logo {
     max-width: 80px;
   }
