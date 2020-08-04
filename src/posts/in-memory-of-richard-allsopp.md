@@ -11,7 +11,7 @@ tags:
 ---
 The Robins Trust board were stunned and saddened to learn that our friend and colleague Richard Allsopp has passed away.
 
-![Richard Allsopp](images/rich-allsopp-cropped-small.jpg "Rickard Allsopp")
+![Richard Allsopp](images/rich-allsopp-cropped-small.jpg "Richard Allsopp")
 
 \
 One of our hardiest and hardest-working volunteers, Rich was our raffle and events organiser.\
