@@ -19,12 +19,6 @@
       "button": false
     },
     {
-      "text": "Quiz",
-      "url": "/quiz",
-      "external": false,
-      "button": false
-    },
-    {
       "text": "News",
       "url": "/archive",
       "external": false,
