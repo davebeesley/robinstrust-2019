@@ -4,14 +4,14 @@ title: In memory of Richard Allsopp
 metaTitle: In memory of Richard Allsopp
 metaDesc: The Robins Trust board were stunned and saddened to learn that our
   friend and colleague Richard Allsopp has passed away.
-socialImage: images/rich-allsopp-cropped-small.jpg
+socialImage: /images/rich-allsopp-cropped-small.jpg
 date: 2020-08-04T16:13:05.312Z
 tags:
   - News
 ---
 The Robins Trust board were stunned and saddened to learn that our friend and colleague Richard Allsopp has passed away.
 
-![Richard Allsopp](images/rich-allsopp-cropped-small.jpg "Richard Allsopp")
+![Richard Allsopp](/images/rich-allsopp-cropped-small.jpg "Richard Allsopp")
 
 \
 One of our hardiest and hardest-working volunteers, Rich was our raffle and events organiser.\
