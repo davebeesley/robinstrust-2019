@@ -9,7 +9,10 @@ date: 2020-08-04T16:13:05.312Z
 tags:
   - News
 ---
-The Robins Trust board were stunned and saddened to learn that our friend and colleague Richard Allsopp has passed away.\
+The Robins Trust board were stunned and saddened to learn that our friend and colleague Richard Allsopp has passed away.
+
+![Richard Allsopp](images/rich-allsopp-cropped-small.jpg "Rickard Allsopp")
+
 \
 One of our hardiest and hardest-working volunteers, Rich was our raffle and events organiser.\
 \
