@@ -11,9 +11,8 @@ tags:
 ---
 The Robins Trust board were stunned and saddened to learn that our friend and colleague Richard Allsopp has passed away.
 
-![Richard Allsopp](/images/rich-allsopp-cropped-small.jpg "Richard Allsopp")
+![Richard Allsopp](/images/rich-allsopp-cropped-small.jpg "Richard Allsopp helps pay tribute to Justin Edinburgh at Leyton Orient in August 2019")
 
-\
 One of our hardiest and hardest-working volunteers, Rich was our raffle and events organiser.\
 \
 Whatever the weather, he would be out and about on a matchday selling 1/100 draw tickets, always with a smile on his face.\
