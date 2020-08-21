@@ -46,7 +46,7 @@ Campaign backers say the football authorities and government cannot sit back and
 
 *Sustain The Game!* is built around five key principles and aims to protect clubs, increase transparency, implement strong independent financial controls, strengthen the football pyramid, and increase supporter engagement.
 
-### *Sustain The Game!* Principles:
+### Sustain The Game! Principles:
 
 1. Protect our clubs - football clubs are community assets and an important expression of individual and local identity, they deserve legal protection and urgent support to secure their future;
 2. Transparency - everyone has a right to know who owns their club, and how clubs and the authorities operate. Owners are custodians of clubs on behalf of all of us;
