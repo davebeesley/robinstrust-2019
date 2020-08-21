@@ -3,7 +3,10 @@ layout: layouts/post.njk
 title: Trust and Club join forces to back FSA 'Sustain The Game' campaign
 date: 2020-08-21T08:29:12.140Z
 tags:
-  - Club Trust FSA Reform
+  - Club
+  - Trust
+  - FSA
+  - Reform
 ---
 The Robins Trust is proud to join supporter groups from across the country as a co-sponsor of the Sustain The Game! campaign launched today by the Football Supporters Association.
 
