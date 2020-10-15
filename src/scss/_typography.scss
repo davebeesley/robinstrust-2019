@@ -34,6 +34,10 @@ h3 {
   font-size: get-size(500);
 }
 
+ol ol li {
+  list-style: lower-roman;
+}
+
 @include media-query('md') {
   h1 {
     font-size: get-size(900);
