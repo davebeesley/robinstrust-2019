@@ -25,12 +25,6 @@
       "button": false
     },
     {
-      "text": "AGM & Elections",
-      "url": "/agm-elections",
-      "external": false,
-      "button": false
-    },
-    {
       "text": "Contact",
       "url": "/contact",
       "external": false,
