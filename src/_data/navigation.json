@@ -13,20 +13,14 @@
       "button": false
     },
     {
-      "text": "Board",
-      "url": "/board",
+      "text": "AGM & Elections",
+      "url": "/agm-elections",
       "external": false,
       "button": false
     },
     {
       "text": "News",
       "url": "/archive",
-      "external": false,
-      "button": false
-    },
-    {
-      "text": "AGM & Elections",
-      "url": "/agm-elections",
       "external": false,
       "button": false
     },
