@@ -16,7 +16,7 @@ The election will follow the following process:
 6. Nominees will also be asked to supply a statement supporting their nomination as per rule 6 of the Trust Election Policy. Statements should be at least 400 words long and no longer than 1000 words. If a candidate’s statement has more 1000 words, it will be truncated and text will be inserted below stating “The candidate’s statement has exceeded the permitted amount and has therefore been truncated”. The number of words counted shall be decided using Microsoft Word.
 7. As per rule 5 of the Trust Election Policy, it is the candidate’s responsibility to ensure their candidacy is valid as per the terms above.
 8. The timetable for the 2020 election will be:
-    1. On or before 12 October, 2020: Notice of AGM and election circulated to all members.
+    1. On or before 21 October, 2020: Notice of AGM and election circulated to all members.
     2. Midday, November 6. 2020: Deadline for receipt of nominations.
     3.In the week beginning November 9, 2020 an announcement will be made as to whether a ballot will be necessary. A ballot will be necessary if the number of nominations EXCEEDS 15.<br>
     <br>If so, the following will happen: 
