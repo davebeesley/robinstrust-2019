@@ -9,9 +9,9 @@ socialImage: /images/cheltenhamtown.jpg
 
 The election will follow the following process:
 1. The election will be run by an Election Management Group consisting of one member of the Trust board and an independent scrutineer.
-2.Leo Hoenig (Robins Trust) was chosen to organise the election as per a Board Meeting on Tuesday, October 6 2020. Neil Le Milliere (Exeter City Supporters Trust) has agreed to be the independent scrutineer.
-3. Eligibility for the role of FED is set out in the Trust’s Fan Elected Director rules and any nominee must agree to be bound by those rules. 
-4. Nominees will also be asked to supply a statement supporting their nomination as per rule 6 of the Trust Election Policy. Statements should be at least 400 words long and no longer than 1000 words. If a candidate’s statement has more 1000 words, it will be truncated and text will be inserted below stating “The candidate’s statement has exceeded the permitted amount and has therefore been truncated”. The number of words counted shall be decided using Microsoft Word.
+2. Leo Hoenig (Robins Trust) was chosen to organise the election as per a Board Meeting on Tuesday, October 6 2020. Neil Le Milliere (Exeter City Supporters Trust) has agreed to be the independent scrutineer.
+3. Eligibility for the role of FED is set out in the Trust’s [Fan Elected Director rules and any nominee must agree to be bound by those rules](/images/TrustFEDremit.pdf). 
+4. Nominees will also be asked to supply a statement supporting their nomination as per rule 6 of the Trust Election Policy. Statements should be at least 400 words long and no longer than 1000 words. If a candidate’s statement has more 1000 words, it will be truncated and text will be inserted below stating "The candidate’s statement has exceeded the permitted amount and has therefore been truncated". The number of words counted shall be decided using Microsoft Word.
 5. The timetable for the election of the FED will be as follows:
     1. On or before 21 October, 2020: Notice of AGM and election circulated to all members.
     2. Midday, November 6. 2020: Deadline for receipt of nominations.

@@ -8,11 +8,11 @@ socialImage: /images/cheltenhamtown.jpg
 ---
 
 The election will follow the following process:
-1. The Trust board currently has 8 members. Trust rules say that the board will consist of no fewer than 6 and no more than 16 members.
+1. The Trust board currently has 8 members. [Trust rules](/images/RobinsTrustRules.pdf) say that the board will consist of no fewer than 6 and no more than 16 members.
 2. The election will be run by an Election Management Group consisting of one member of the Trust board (who is not standing for re-election) and an independent scrutineer.
 3. Leo Hoenig (Robins Trust) was chosen to organise the election as per a Board Meeting on Tuesday, October 6 2020. Neil Le Milliere (Exeter City Supporters Trust) has agreed to be the independent scrutineer.
 4. At the Trust Board meeting on October 6 2020, it agreed that all board members with the exception of Leo Hoenig would apply for re-election. 
-5. As per Trust rules, anyone standing for election shall be a fully paid member of the society, and be nominated by two other full society members.
+5. As per [Trust rules](/images/RobinsTrustRules.pdf), anyone standing for election shall be a fully paid member of the society, and be nominated by two other full society members.
 6. Nominees will also be asked to supply a statement supporting their nomination as per rule 6 of the Trust Election Policy. Statements should be at least 400 words long and no longer than 1000 words. If a candidate’s statement has more 1000 words, it will be truncated and text will be inserted below stating “The candidate’s statement has exceeded the permitted amount and has therefore been truncated”. The number of words counted shall be decided using Microsoft Word.
 7. As per rule 5 of the Trust Election Policy, it is the candidate’s responsibility to ensure their candidacy is valid as per the terms above.
 8. The timetable for the 2020 election will be:
