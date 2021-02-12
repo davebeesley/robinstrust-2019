@@ -13,15 +13,15 @@
       "button": false
     },
     {
-      "text": "AGM & Elections",
-      "url": "/agm-elections",
+      "text": "News",
+      "url": "/archive",
       "external": false,
       "button": false
     },
     {
-      "text": "News",
-      "url": "/archive",
-      "external": false,
+      "text": "500 Club",
+      "url": "https://www.ctfc500club.co.uk/",
+      "external": true,
       "button": false
     },
     {
