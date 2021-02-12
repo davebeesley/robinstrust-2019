@@ -8,7 +8,7 @@ socialImage: /images/cheltenhamtown.jpg
 ---
 **Joining or renewing your Robins Trust membership via digital means is temporarily suspended.**
 
-At the start of the COVID-19 Pandemic, we took the decision to suspend renewals, and extend all existing memberships until the outlook of the pandemic was more clear.
+At the start of the CoViD-19 Pandemic, we took the decision to suspend renewals, and extend all existing memberships until the outlook of the pandemic was more clear.
 
 We also decided that this was an opportune time to review our digital platform, and how we manage our memberships. We have had issues with our existing membership system, and felt this was a time to start afresh.
 
